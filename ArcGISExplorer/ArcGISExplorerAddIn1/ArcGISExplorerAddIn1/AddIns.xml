@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExplorerAddIns
+     groupCaption="ArcGISExplorerAddIn1"
+     name="ArcGISExplorerAddIn1"
+     description="ArcGISExplorerAddIn1"
+     publisher="weis">
+  <extension
+       id="Extension"
+       assembly="ArcGISExplorerAddIn1.dll"
+       className="ArcGISExplorerAddIn1.Extension"
+       caption="Extension" />
+</ExplorerAddIns>
