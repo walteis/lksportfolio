@@ -1,0 +1,9 @@
+C:\Users\weis\Documents\Visual Studio 2008\Projects\ArcGISExplorerAddIn2\ArcGISExplorerAddIn2\bin\Debug\ArcGISExplorerAddIn2.dll
+C:\Users\weis\Documents\Visual Studio 2008\Projects\ArcGISExplorerAddIn2\ArcGISExplorerAddIn2\bin\Debug\ArcGISExplorerAddIn2.pdb
+C:\Users\weis\Documents\Visual Studio 2008\Projects\ArcGISExplorerAddIn2\ArcGISExplorerAddIn2\bin\Debug\Interop.FODMLib.dll
+C:\Users\weis\Documents\Visual Studio 2008\Projects\ArcGISExplorerAddIn2\ArcGISExplorerAddIn2\bin\Debug\Interop.FODMUtil.dll
+C:\Users\weis\Documents\Visual Studio 2008\Projects\ArcGISExplorerAddIn2\ArcGISExplorerAddIn2\bin\Debug\Interop.FODMUtilLib.dll
+C:\Users\weis\Documents\Visual Studio 2008\Projects\ArcGISExplorerAddIn2\ArcGISExplorerAddIn2\bin\Debug\Interop.mpsUOMLib.dll
+C:\Users\weis\Documents\Visual Studio 2008\Projects\ArcGISExplorerAddIn2\ArcGISExplorerAddIn2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\weis\Documents\Visual Studio 2008\Projects\ArcGISExplorerAddIn2\ArcGISExplorerAddIn2\obj\Debug\ArcGISExplorerAddIn2.dll
+C:\Users\weis\Documents\Visual Studio 2008\Projects\ArcGISExplorerAddIn2\ArcGISExplorerAddIn2\obj\Debug\ArcGISExplorerAddIn2.pdb

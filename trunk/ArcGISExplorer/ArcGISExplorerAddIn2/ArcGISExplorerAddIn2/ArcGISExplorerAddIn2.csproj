@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="2.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EECB5DF6-9BCA-482B-AD6E-061E3B0F7C1D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ArcGISExplorerAddIn2</RootNamespace>
+    <AssemblyName>ArcGISExplorerAddIn2</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ESRI.ArcGISExplorer.Application">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ESRI.ArcGISExplorer">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Interop.FODMLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Source-AgTrax\TVMAP\TraxView\Shared\Interop.FODMLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.FODMUtil, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Source-AgTrax\TVMAP\TraxView\Shared\Interop.FODMUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.FODMUtilLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Source-AgTrax\TVMAP\TraxView\Shared\Interop.FODMUtilLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.mpsUOMLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Source-AgTrax\TVMAP\TraxView\Shared\Interop.mpsUOMLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MapShots.COM.FODM, Version=3.10.0.2, Culture=neutral, PublicKeyToken=1ae0b1d6e249ca9f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Source-AgTrax\TVMAP\TraxView\Shared\MapShots.COM.FODM.dll</HintPath>
+    </Reference>
+    <Reference Include="MapShots.COM.UOM, Version=1.1.0.0, Culture=neutral, PublicKeyToken=1ae0b1d6e249ca9f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Source-AgTrax\TVMAP\TraxView\Shared\MapShots.COM.UOM.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Button.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AddIns.xml" />
+    <Content Include="Images\Button_LargeImage.png" />
+    <Content Include="Images\Button_SmallImage.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(ArcGIS_E3SDK)\..\Bin\ESRI.ArcGISExplorer.targets" Condition="Exists('$(ArcGIS_E3SDK)\..\Bin\ESRI.ArcGISExplorer.targets')" />
+  <Target Name="BeforeBuild" Condition="!Exists('$(ArcGIS_E3SDK)\..\Bin\ESRI.ArcGISExplorer.targets')">
+    <Error Text="The ArcGISExplorer SDK is not correctly installed - 'ESRI.ArcGISExplorer.targets' not found (ArcGIS_E3SDK='$(ArcGIS_E3SDK)')." />
+  </Target>
+  <Target Name="AfterBuild">
+    <MakeEaz InputAssembly="$(TargetPath)" AddinsXml="Addins.xml" Content="@(Content)" References="@(Reference)" OutputPath="$(EazPath)" />
+    <VerifyEaz EazPath="$(EazPath)">
+      <Output TaskParameter="AddInsFolderPath" PropertyName="AddInsFolderPath" />
+    </VerifyEaz>
+    <!-- Deploy the addin to the 'AddIns' folder -->
+    <MakeDir Directories="$(AddInsFolderPath)" />
+    <PropertyGroup>
+      <EazPathCopy>$(EazPath)</EazPathCopy>
+    </PropertyGroup>
+    <Copy SourceFiles="$(EazPathCopy)" DestinationFolder="$(AddInsFolderPath)">
+      <Output TaskParameter="CopiedFiles" ItemName="CopiedFiles" />
+    </Copy>
+    <Message Importance="High" Text="Addin package file copied to the ArcGIS Explorer Addins folder: @(CopiedFiles)" />
+  </Target>
+</Project>
