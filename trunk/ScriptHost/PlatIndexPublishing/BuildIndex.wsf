@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="Windows Script Host">
+    <job id="Default">
+         <runtime>
+            <description>This script builds the Public Safety Mapbook Index Documents</description>
+            <usage>
+This script builds the Public Safety Mapbook Index Documents. Make sure that 
+roadorth.dbf and citycode.dbf exist in source folder. Index documents are saved
+in the default Word document directory (typically "My Documents").
+            
+Usage: cscript BuildIndex.wsf /source:path /city:citycode [/debug:YES|NO] //Job:jobname [//Job:jobname...] 
+
+       Where jobname is:
+           DataPrep - prepares data for index build
+           LongIndex  - creates full length index
+           SummaryIndex  - Creates summary index
+           SumNoWI  - Creates summary index without Wichita streets
+           CityIndex  - creates index for small cities
+
+Options: source - path to source dbf files.
+         city   - city code, use ALL for all cities.
+         debug - YES or NO, YES shows Word while scripts are running.
+         
+Example: cscript BuildIndex.wsf  /source:c:\temp /city:AN //Job:DataPrep //Job:CityIndex 
+
+             
+            </usage>
+
+        </runtime>   
+        <script language="VBscript">WScript.Arguments.ShowUsage</script>
+    </job>
+    <job id="DataPrep">
+      <?job debug="false"?>
+       <runtime>
+            <named
+                name="source"
+                helpstring="Location of dbf files"
+                type="string"
+                required="true"
+            />
+            <example>
+Example: BuildIndex.wsf //Job:DataPrep /source:c:\temp
+            </example>
+         </runtime>   
+        <script language="VBscript" src="\\diogis04\giswork\Amls\Pubamls\pubTools\PubMapbook/Copy.vbs">
+        </script>
+        <script language="VBscript" src="\\diogis04\giswork\Amls\Pubamls\pubTools\PubMapbook/FixSort.vbs">
+        </script>
+        <script language="VBscript" src="\\diogis04\giswork\Amls\Pubamls\pubTools\PubMapbook/SummarizeSort.vbs">
+        </script>
+    </job>
+    <job id="LongIndex">
+       <runtime>
+            <named
+                name="source"
+                helpstring="Location of dbf files"
+                type="string"
+                required="true"
+            />
+            <named
+                name="debug"
+                helpstring="Show Word"
+                type="string"
+                required="false"
+            />
+            <example>
+Example: BuildIndex.wsf //Job:LongIndex /source:c:\temp [/debug:YES|NO]
+            </example>
+         </runtime>   
+        <script language="VBscript" src="\\diogis04\giswork\Amls\Pubamls\pubTools\PubMapbook/CreateIndex.vbs">
+        </script>
+    </job>
+    <job id="SummaryIndex">
+       <runtime>
+            <named
+                name="source"
+                helpstring="Location of dbf files"
+                type="string"
+                required="true"
+            />
+            <named
+                name="debug"
+                helpstring="Show Word"
+                type="string"
+                required="false"
+            />
+            <example>
+Example: BuildIndex.wsf //Job:SummaryIndex /source:c:\temp [/debug:YES|NO]
+            </example>
+         </runtime>   
+        <script language="VBscript" src="\\diogis04\giswork\Amls\Pubamls\pubTools\PubMapbook/CreateSummaryIndex.vbs">
+        </script>
+    </job>
+    <job id="SumNoWI">
+       <runtime>
+            <named
+                name="source"
+                helpstring="Location of dbf files"
+                type="string"
+                required="true"
+            />
+            <named
+                name="debug"
+                helpstring="Show Word"
+                type="string"
+                required="false"
+            />
+            <example>
+Example: BuildIndex.wsf //Job:SumNoWI /source:c:\temp [/debug:YES|NO]
+            </example>
+         </runtime>   
+        <script language="VBscript" src="\\diogis04\giswork\Amls\Pubamls\pubTools\PubMapbook/CreateSumNoWichita.vbs">
+        </script>
+    </job>
+    <job id="CityIndex">
+        <runtime>
+            <named
+                name="city"
+                helpstring="Citycode to create index for. Use ALL for all cities."
+                type="string"
+                required="true"
+            />
+            <named
+                name="source"
+                helpstring="Location of dbf files"
+                type="string"
+                required="true"
+            />
+            <named
+                name="debug"
+                helpstring="Show Word"
+                type="string"
+                required="false"
+            />
+            <example>
+Example: BuildIndex.wsf //Job:CityIndex /source:c:\temp /city:ALL [/debug:YES|NO]
+            </example>
+         </runtime>   
+        <script language="VBscript" src="\\diogis04\giswork\Amls\Pubamls\pubTools\PubMapbook\CreateCityIndex.vbs">
+        </script>
+    </job>
+</package>
