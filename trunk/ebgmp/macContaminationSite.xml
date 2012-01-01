@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-07-27T12:29:25">
+<ContaminationSite>
+<Rec>1</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00488 </PlaceID_x0023_1>
+<PlaceID_x0023_2>80534</PlaceID_x0023_2>
+<PlaceName> 5 STAR CAR WASH </PlaceName>
+<Address> 122 S. ELM </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/28 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36845</Latitude>
+<Longitude>-97.66446</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>2</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00252 </PlaceID_x0023_1>
+<PlaceID_x0023_2>26169</PlaceID_x0023_2>
+<PlaceName> ADM MILLING </PlaceName>
+<Address> 201 S. SPRUCE </Address>
+<City> INMAN </City>
+<Zip>67546</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 21S/04W/17 </Township_x002F_Range_x002F_Section>
+<Latitude>38.23097</Latitude>
+<Longitude>-97.77707</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>3</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00897 </PlaceID_x0023_1>
+<PlaceID_x0023_2>1402</PlaceID_x0023_2>
+<PlaceName> BELL GAS # 811 </PlaceName>
+<Address> 800 E. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/28 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36923</Latitude>
+<Longitude>-97.65499</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>4</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C207870854 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> BNSF HUTCHINSON RAIL YARD </PlaceName>
+<Address> 3215 E. AVENUE B </Address>
+<City> HUTCHINSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> 250,000 - 500,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> UNKNOWN </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 20S/02W/15 </Township_x002F_Range_x002F_Section>
+<Latitude>38.3064</Latitude>
+<Longitude>-97.52392</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>5</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00605 </PlaceID_x0023_1>
+<PlaceID_x0023_2>25855</PlaceID_x0023_2>
+<PlaceName> BRIGGS REPAIR &amp; SUPPLY </PlaceName>
+<Address> RR #1 </Address>
+<City> WINDOM </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 20S/05W/20 </Township_x002F_Range_x002F_Section>
+<Latitude>38.28999</Latitude>
+<Longitude>-97.90357</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>6</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00167 </PlaceID_x0023_1>
+<PlaceID_x0023_2>3365</PlaceID_x0023_2>
+<PlaceName> CANTON ELEVATOR CO </PlaceName>
+<Address> 209 S. MAIN </Address>
+<City> CANTON </City>
+<Zip>67428</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/01W/22 </Township_x002F_Range_x002F_Section>
+<Latitude>38.38389</Latitude>
+<Longitude>-97.42669</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>7</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00148 </PlaceID_x0023_1>
+<PlaceID_x0023_2>3588</PlaceID_x0023_2>
+<PlaceName> CANTON SERVICE CENTER </PlaceName>
+<Address> 131 S. MAIN </Address>
+<City> CANTON </City>
+<Zip>67428</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/01W/22 </Township_x002F_Range_x002F_Section>
+<Latitude>38.38516</Latitude>
+<Longitude>-97.4269</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>8</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-12221 </PlaceID_x0023_1>
+<PlaceID_x0023_2>3588</PlaceID_x0023_2>
+<PlaceName> CANTON SERVICE CENTER </PlaceName>
+<Address> 131 S. MAIN </Address>
+<City> CANTON </City>
+<Zip>67428</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/01W/22 </Township_x002F_Range_x002F_Section>
+<Latitude>38.38516</Latitude>
+<Longitude>-97.4269</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>9</Rec>
+<PlaceType> DRY CLEANER </PlaceType>
+<PlaceID_x0023_1>   </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> CITY OF INMAN </PlaceName>
+<Address>   </Address>
+<City> INMAN </City>
+<Zip>67546</Zip>
+<NatureofContamination> INDUSTRIAL SOLVENTS </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost> 50,000 - 100,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 21S/04W/09 </Township_x002F_Range_x002F_Section>
+<Latitude>38.2396</Latitude>
+<Longitude>-97.76657</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>10</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00750 </PlaceID_x0023_1>
+<PlaceID_x0023_2>6851</PlaceID_x0023_2>
+<PlaceName> COASTAL MART # 2513 </PlaceName>
+<Address> 1340 N. MAIN </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/21 </Township_x002F_Range_x002F_Section>
+<Latitude>38.38519</Latitude>
+<Longitude>-97.66638</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>11</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00704 </PlaceID_x0023_1>
+<PlaceID_x0023_2>3352</PlaceID_x0023_2>
+<PlaceName> COASTAL MART #2517 </PlaceName>
+<Address> 1035 W. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36925</Latitude>
+<Longitude>-97.6821</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>12</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00266 </PlaceID_x0023_1>
+<PlaceID_x0023_2>29037</PlaceID_x0023_2>
+<PlaceName> COOP SERVICE STATION </PlaceName>
+<Address> N. MAPLE &amp; WOODSIDE </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37346</Latitude>
+<Longitude>-97.66842</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>13</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00512 </PlaceID_x0023_1>
+<PlaceID_x0023_2>29059</PlaceID_x0023_2>
+<PlaceName> COPELAND SUPPLY </PlaceName>
+<Address> 519 N. MAIN </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37438</Latitude>
+<Longitude>-97.66702</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>14</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505900043 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> CRANKSHAFT DIE AND ENGINEERING </PlaceName>
+<Address> 821 W WOODSIDE </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> HEAVY METALS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> UNKNOWN </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STATE FUNDED (100%) </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37364</Latitude>
+<Longitude>-97.677</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>15</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00278 </PlaceID_x0023_1>
+<PlaceID_x0023_2>26578</PlaceID_x0023_2>
+<PlaceName> FARMLAND INDUSTRIES, MCP </PlaceName>
+<Address> 1070 COUNTY RD </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/32 </Township_x002F_Range_x002F_Section>
+<Latitude>38.34803</Latitude>
+<Longitude>-97.67126</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>16</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-11169 </PlaceID_x0023_1>
+<PlaceID_x0023_2>81475</PlaceID_x0023_2>
+<PlaceName> FINA # 5097, FORMER </PlaceName>
+<Address> 1315 W. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36945</Latitude>
+<Longitude>-97.68017</Longitude>
+<LocationMethodCode> A3 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>17</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00051 </PlaceID_x0023_1>
+<PlaceID_x0023_2>6591</PlaceID_x0023_2>
+<PlaceName> FINA# 9483 </PlaceName>
+<Address> 2201 E. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/26 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37153</Latitude>
+<Longitude>-97.62619</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>18</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505903008 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> FIRST &amp; BAER STREET </PlaceName>
+<Address> 1800 E 1ST </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> VOLATILE ORGANICS. REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> UNKNOWN </EstimatedCleanupCost>
+<SourcesofCleanupMonies> UNKNOWN </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/22 </Township_x002F_Range_x002F_Section>
+<Latitude>38.38</Latitude>
+<Longitude>-97.641</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>19</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00493 </PlaceID_x0023_1>
+<PlaceID_x0023_2>14624</PlaceID_x0023_2>
+<PlaceName> GALVA CASH SERVICE </PlaceName>
+<Address> 110 W. HWY 56 </Address>
+<City> GALVA </City>
+<Zip>67443</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/02W/21 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37718</Latitude>
+<Longitude>-97.53796</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>20</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00497 </PlaceID_x0023_1>
+<PlaceID_x0023_2>14624</PlaceID_x0023_2>
+<PlaceName> GALVA CASH SERVICE </PlaceName>
+<Address> HWY 56 </Address>
+<City> GALVA </City>
+<Zip>67443</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/02W/21 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37718</Latitude>
+<Longitude>-97.53796</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>21</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-11334 </PlaceID_x0023_1>
+<PlaceID_x0023_2>14624</PlaceID_x0023_2>
+<PlaceName> GALVA CASH SERVICE </PlaceName>
+<Address> HWY 56 </Address>
+<City> GALVA </City>
+<Zip>67443</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/02W/21 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37718</Latitude>
+<Longitude>-97.53796</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>22</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505900017 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> GALVA PWS WELLS #3 &amp; #4 </PlaceName>
+<Address> 113 MCPHERSON </Address>
+<City> GALVA </City>
+<Zip>67443</Zip>
+<NatureofContamination> VOLATILE ORGANICS. NITRATES. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> 50,000 - 100,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/02W/21 </Township_x002F_Range_x002F_Section>
+<Latitude>38.38314</Latitude>
+<Longitude>-97.53864</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>23</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-12826 </PlaceID_x0023_1>
+<PlaceID_x0023_2>28557</PlaceID_x0023_2>
+<PlaceName> GREEN LANTERN #8 (TEXACO) </PlaceName>
+<Address> 115 W. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36922</Latitude>
+<Longitude>-97.66788</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>24</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-10150 </PlaceID_x0023_1>
+<PlaceID_x0023_2>81186</PlaceID_x0023_2>
+<PlaceName> HILLENBURG OIL CO </PlaceName>
+<Address> 603 S. KANSAS ST </Address>
+<City> CANTON </City>
+<Zip>67428</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/01W/21 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37768</Latitude>
+<Longitude>-97.4311</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>25</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505903005 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> HILTON GRAIN BIN SITE </PlaceName>
+<Address>   </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> VOLATILE ORGANICS. NITRATES. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> 50,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> UNKNOWN </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 18S/03W/32 </Township_x002F_Range_x002F_Section>
+<Latitude>38.44206</Latitude>
+<Longitude>-97.67561</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>26</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00096 </PlaceID_x0023_1>
+<PlaceID_x0023_2>16260</PlaceID_x0023_2>
+<PlaceName> JOHN&apos;S MOTOR SERVICE </PlaceName>
+<Address> 523 W. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.3694</Latitude>
+<Longitude>-97.67161</Longitude>
+<LocationMethodCode> A3 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>27</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00376 </PlaceID_x0023_1>
+<PlaceID_x0023_2>16485</PlaceID_x0023_2>
+<PlaceName> KANSAS TRANSIT </PlaceName>
+<Address> 913 W. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36943</Latitude>
+<Longitude>-97.67578</Longitude>
+<LocationMethodCode> A3 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>28</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00145 </PlaceID_x0023_1>
+<PlaceID_x0023_2>26669</PlaceID_x0023_2>
+<PlaceName> KDOT </PlaceName>
+<Address> E. KANSAS AVE </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/27 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36938</Latitude>
+<Longitude>-97.6346</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>29</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00348 </PlaceID_x0023_1>
+<PlaceID_x0023_2>80526</PlaceID_x0023_2>
+<PlaceName> KEN GOERING MOTORS </PlaceName>
+<Address> 113 S. ASH </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/28 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36842</Latitude>
+<Longitude>-97.66522</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>30</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00115 </PlaceID_x0023_1>
+<PlaceID_x0023_2>6828</PlaceID_x0023_2>
+<PlaceName> KERR-MCGEE#8427 </PlaceName>
+<Address> 800 W. WILSON </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.3695</Latitude>
+<Longitude>-97.67635</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>31</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00284 </PlaceID_x0023_1>
+<PlaceID_x0023_2>6828</PlaceID_x0023_2>
+<PlaceName> KERR-MCGEE#8427 </PlaceName>
+<Address> 800 W. WILSON </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.3695</Latitude>
+<Longitude>-97.67635</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>32</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00744 </PlaceID_x0023_1>
+<PlaceID_x0023_2>27621</PlaceID_x0023_2>
+<PlaceName> KINGS MOVING &amp; STORAGE </PlaceName>
+<Address> 417 W 1ST </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37638</Latitude>
+<Longitude>-97.67206</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>33</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00623 </PlaceID_x0023_1>
+<PlaceID_x0023_2>6832</PlaceID_x0023_2>
+<PlaceName> MCPHERSON AIRPORT </PlaceName>
+<Address> S HWY 81 BYPASS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/31 </Township_x002F_Range_x002F_Section>
+<Latitude>38.35996</Latitude>
+<Longitude>-97.686</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>34</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505900458 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> MCPHERSON CITY LANDFILL </PlaceName>
+<Address>   </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> VOLATILE ORGANICS. HEAVY METALS. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> 50,000 - 100,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/34 </Township_x002F_Range_x002F_Section>
+<Latitude>38.354</Latitude>
+<Longitude>-97.631</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>35</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505970201 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> MCPHERSON CITY/COUNTY AIRPORT </PlaceName>
+<Address> 1000 SOUTH BYPASS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> VOLATILE ORGANICS. HERBICIDE </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> UNKNOWN </EstimatedCleanupCost>
+<SourcesofCleanupMonies> UNKNOWN </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/31 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36011</Latitude>
+<Longitude>-97.68569</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>36</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00362 </PlaceID_x0023_1>
+<PlaceID_x0023_2>4642</PlaceID_x0023_2>
+<PlaceName> MCPHERSON CONCRETE PROD </PlaceName>
+<Address> 1115 S CHESTNUT </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/32 </Township_x002F_Range_x002F_Section>
+<Latitude>38.35857</Latitude>
+<Longitude>-97.67078</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>37</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505900028 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> MCPHERSON PWS #2 </PlaceName>
+<Address>   </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 1,000,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37257</Latitude>
+<Longitude>-97.67176</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>38</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505970821 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> MCPHERSON PWS#7 (aka </PlaceName>
+<Address> SW CORNER OF AVE A AND S 81 BYPASS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> UNKNOWN </EstimatedCleanupCost>
+<SourcesofCleanupMonies> EPA SUPERFUND </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/31 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36222</Latitude>
+<Longitude>-97.68567</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>39</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00275 </PlaceID_x0023_1>
+<PlaceID_x0023_2>10</PlaceID_x0023_2>
+<PlaceName> MCPHERSON STREET DEPT </PlaceName>
+<Address> 400 N. OAK </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/28 </Township_x002F_Range_x002F_Section>
+<Latitude>38.3728</Latitude>
+<Longitude>-97.66276</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>40</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00485 </PlaceID_x0023_1>
+<PlaceID_x0023_2>25245</PlaceID_x0023_2>
+<PlaceName> MID KANSAS COOP </PlaceName>
+<Address> 307 W. COLE </Address>
+<City> MOUNDRIDGE </City>
+<Zip>67107</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 21S/02W/27 </Township_x002F_Range_x002F_Section>
+<Latitude>38.20293</Latitude>
+<Longitude>-97.5228</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>41</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-11449 </PlaceID_x0023_1>
+<PlaceID_x0023_2>6662</PlaceID_x0023_2>
+<PlaceName> MID KANSAS COOP </PlaceName>
+<Address> 100 S. MAPLE </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.3723</Latitude>
+<Longitude>-97.66934</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>42</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00720 </PlaceID_x0023_1>
+<PlaceID_x0023_2>29622</PlaceID_x0023_2>
+<PlaceName> MID KANSAS COOP </PlaceName>
+<Address> 124 N. DRUCILLA </Address>
+<City> MOUNDRIDGE </City>
+<Zip>67107</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 21S/02W/22 </Township_x002F_Range_x002F_Section>
+<Latitude>38.20336</Latitude>
+<Longitude>-97.52339</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>43</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00548 </PlaceID_x0023_1>
+<PlaceID_x0023_2>1396</PlaceID_x0023_2>
+<PlaceName> MOODY OIL </PlaceName>
+<Address> 521 N HWY 81 BYPASS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/30 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37566</Latitude>
+<Longitude>-97.68586</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>44</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505903002 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> MOUNDRIDGE PWS </PlaceName>
+<Address> 124 DRUCILLA LN </Address>
+<City> MOUNDRIDGE </City>
+<Zip>67107</Zip>
+<NatureofContamination> VOLATILE ORGANICS. NITRATES. REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> 500,000 - 1,000,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 21S/02W/27 </Township_x002F_Range_x002F_Section>
+<Latitude>38.203</Latitude>
+<Longitude>-97.522</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>45</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00629 </PlaceID_x0023_1>
+<PlaceID_x0023_2>80530</PlaceID_x0023_2>
+<PlaceName> MUSTANG TRAILER PARK </PlaceName>
+<Address> 1909 MILLERS LANE </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/27 </Township_x002F_Range_x002F_Section>
+<Latitude>38.3745</Latitude>
+<Longitude>-97.63947</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>46</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505903043 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> NCRA - CONWAY </PlaceName>
+<Address>   </Address>
+<City> CONWAY </City>
+<Zip>67460</Zip>
+<NatureofContamination> CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> 1,000,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/04W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.375</Latitude>
+<Longitude>-97.779</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>47</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00287 </PlaceID_x0023_1>
+<PlaceID_x0023_2>1399</PlaceID_x0023_2>
+<PlaceName> NCRA PIPLINE OPERATIONS </PlaceName>
+<Address> 1901 E. 1ST </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/22 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37704</Latitude>
+<Longitude>-97.63927</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>48</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505900057 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> NCRA REFINERY </PlaceName>
+<Address> 2000 S MAIN, PO BOX 1167 </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> 1,000,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 20S/03W/05 </Township_x002F_Range_x002F_Section>
+<Latitude>38.345</Latitude>
+<Longitude>-97.67</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>49</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C207870831 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> PRECISION HOUSING </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67460</Zip>
+<NatureofContamination>   </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> UNKNOWN </EstimatedCleanupCost>
+<SourcesofCleanupMonies> UNKNOWN </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/27 </Township_x002F_Range_x002F_Section>
+<Latitude>38.376</Latitude>
+<Longitude>-97.64</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>50</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00537 </PlaceID_x0023_1>
+<PlaceID_x0023_2>80532</PlaceID_x0023_2>
+<PlaceName> PRICKET LIQUOR </PlaceName>
+<Address> 1111 W. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36928</Latitude>
+<Longitude>-97.68328</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>51</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00679 </PlaceID_x0023_1>
+<PlaceID_x0023_2>26283</PlaceID_x0023_2>
+<PlaceName> QUALITY FEED &amp; FERTILIZER </PlaceName>
+<Address> 644 22ND AVE, RR4 BOX 8 </Address>
+<City> GALVA </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 20S/02W/35 </Township_x002F_Range_x002F_Section>
+<Latitude>38.26722</Latitude>
+<Longitude>-97.51847</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>52</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-12079 </PlaceID_x0023_1>
+<PlaceID_x0023_2>3723</PlaceID_x0023_2>
+<PlaceName> RADKE OIL CO </PlaceName>
+<Address> 1060 W. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36984</Latitude>
+<Longitude>-97.68234</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>53</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-01009 </PlaceID_x0023_1>
+<PlaceID_x0023_2>24034</PlaceID_x0023_2>
+<PlaceName> SANOFI WINTHROP PHARMAC </PlaceName>
+<Address> 1776 N. CENTENNIAL DR </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/22 </Township_x002F_Range_x002F_Section>
+<Latitude>38.38884</Latitude>
+<Longitude>-97.63063</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>54</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505970097 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> SCHILLING S-5 SITE </PlaceName>
+<Address> RT 2, BOX 33B </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> 100,000 - 250,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 18S/03W/22 </Township_x002F_Range_x002F_Section>
+<Latitude>38.47657</Latitude>
+<Longitude>-97.64113</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>55</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00609 </PlaceID_x0023_1>
+<PlaceID_x0023_2>25414</PlaceID_x0023_2>
+<PlaceName> SMITH OIL &amp; GAS </PlaceName>
+<Address> 1800 E. 1ST </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/27 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37662</Latitude>
+<Longitude>-97.64082</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>56</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505903011 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> SOUTH MCPHERSON - US ALT 81 </PlaceName>
+<Address> ROUTE 2 </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> VOLATILE ORGANICS. BASE NEUTRAL. HEAVY METALS. REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> 250,000 - 500,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 20S/03W/05 </Township_x002F_Range_x002F_Section>
+<Latitude>38.33356</Latitude>
+<Longitude>-97.66742</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>57</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00885 </PlaceID_x0023_1>
+<PlaceID_x0023_2>8649</PlaceID_x0023_2>
+<PlaceName> STOP 2 SHOP </PlaceName>
+<Address> 906 E. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/28 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36924</Latitude>
+<Longitude>-97.6527</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>58</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505900198 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> TEXACO CONWAY </PlaceName>
+<Address> RT 2, BOX 176 </Address>
+<City> CONWAY </City>
+<Zip>67460</Zip>
+<NatureofContamination> CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> 1,000,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/04W/30 </Township_x002F_Range_x002F_Section>
+<Latitude>38.372</Latitude>
+<Longitude>-97.8</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>59</Rec>
+<PlaceType> DRY CLEANER </PlaceType>
+<PlaceID_x0023_1>   </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> TIDY LAUNDRY </PlaceName>
+<Address> 414 W. KANSAS </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> SOLVENT(S) FROM DRY CLEANING OPERATIONS. </NatureofContamination>
+<ExtentofContamination> 0  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRY CLEANER TRUST FUND. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/29 </Township_x002F_Range_x002F_Section>
+<Latitude>38.36955</Latitude>
+<Longitude>-97.67168</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>60</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-12668 </PlaceID_x0023_1>
+<PlaceID_x0023_2>81705</PlaceID_x0023_2>
+<PlaceName> VACANT LOT </PlaceName>
+<Address> 1ST &amp; BAER </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/27 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37661</Latitude>
+<Longitude>-97.6396</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>61</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00610 </PlaceID_x0023_1>
+<PlaceID_x0023_2>27116</PlaceID_x0023_2>
+<PlaceName> W SALES &amp; SERVICE </PlaceName>
+<Address> HWY 56 &amp; I35 </Address>
+<City> MCPHERSON </City>
+<Zip>67460</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/03W/26 </Township_x002F_Range_x002F_Section>
+<Latitude>38.37153</Latitude>
+<Longitude>-97.61592</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>62</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID_x0023_1> U5-059-00522 </PlaceID_x0023_1>
+<PlaceID_x0023_2>28603</PlaceID_x0023_2>
+<PlaceName> WEN&apos;S ONE #7 </PlaceName>
+<Address> 100 S. CHRISTIAN AVE </Address>
+<City> MOUNDRIDGE </City>
+<Zip>67107</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY. </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 21S/02W/23 </Township_x002F_Range_x002F_Section>
+<Latitude>38.20303</Latitude>
+<Longitude>-97.51878</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>63</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505900050 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> WILLIAMS CONWAY </PlaceName>
+<Address> CONWAY STATION </Address>
+<City> CONWAY </City>
+<Zip>67460</Zip>
+<NatureofContamination> CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> 1,000,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/04W/28 </Township_x002F_Range_x002F_Section>
+<Latitude>38.364</Latitude>
+<Longitude>-97.775</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>64</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID_x0023_1> C505900047 </PlaceID_x0023_1>
+<PlaceID_x0023_2>   </PlaceID_x0023_2>
+<PlaceName> WILLIAMS/MAPCO CONWAY </PlaceName>
+<Address> PO BOX 1336 </Address>
+<City> MCPHERSON </City>
+<Zip>67491</Zip>
+<NatureofContamination> CHLORIDES. REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> 1,000,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> MCPHERSON </County>
+<Township_x002F_Range_x002F_Section> 19S/05W/24 </Township_x002F_Range_x002F_Section>
+<Latitude>38.38065</Latitude>
+<Longitude>-97.8275</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+</dataroot>

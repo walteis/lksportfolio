@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <title>Equus Beds Google Map Project - Harvey County, KS</title>
+
+  <!-- Copyright (c) 2006, Walt Eis. All rights reserved. -->
+
+  <link rel="stylesheet" href="countymap.css" type="text/css" />
+
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+
+  <script src="http://maps.google.com/maps?file=api&v=1&key=ABQIAAAAFcriaLmRhsjRuq7sfvPBxBQOE1ISoeNDGAcR-wkkvfB0_QLVcBRCB1k_j5WGl6tMS79rQUnA-ZXO2A" type="text/javascript"></script>
+  <script src="http://lordkingsquirrel.com/ebgmp/xmaps.1b.js" type="text/javascript"></script>
+  <script src="http://lordkingsquirrel.com/ebgmp/ebgmp.7.js" type="text/javascript"></script>
+
+
+ <script type="text/javascript">
+        //<![CDATA[
+
+	var contlayer = new WLayer("cont");
+	var waterlayer = new WLayer("water");
+	var wastelayer = new WLayer("waste");
+	var arealayer = new WLayer("area");
+	var welllayer = new WLayer("wells");
+ 
+	var map = "";
+	var boundary = "";
+	var saveXML = ""; 
+
+
+	function onLoad() {
+
+
+	    map = new GMap(document.getElementById("map"));
+	    map.addControl(new GLargeMapControl());      
+	    map.addControl(new GMapTypeControl());
+	    map.addControl(new GScaleControl());
+        var point = new GPoint(-97.34472, 38.04667);
+	    map.centerAndZoom(point,7);
+
+ 
+
+	    // load and draw boundary file   
+//	    loadCountyBoundary("macCounty.xml", "macCounty");
+
+
+	    // load layers
+	    var contparms = new Object();
+	    contparms.request = GXmlHttp.create();
+	    contparms.file = "harveyContaminatedSites.xml";
+	    contparms.datatag = "ContaminationSite";
+	    contparms.infowinname = "infocont";
+	    contparms.iconstyle = { fillColor: '#FF4500', fillOpacity: 0.8, outlineWeight: 2 };
+	    contparms.infotags = ['PlaceName','Address','City', 'PlaceType', 'ExtentofContamination'];
+	    contparms.infolabels = ['Name:', 'Address:','City:', 'Type:', 'Est. Area (Acres):'];
+	    contparms.areatag = "ExtentofContamination";
+
+	    contlayer.markers = WAddLayerDataO(contparms);
+
+
+	    var waterparms = new Object();
+	    waterparms.request = GXmlHttp.create();
+	    waterparms.file = "harveyWaterPlants.xml";
+	    waterparms.datatag = "WaterPlant";
+	    waterparms.infowinname = "infowater";
+	    waterparms.iconstyle = { fillColor: '#D3D3D3', fillOpacity: 0.8, outlineWeight: 2 };
+	    waterparms.infotags = ['PlaceName','Address','City','PlaceType'];
+	    waterparms.infolabels = ['Name:', 'Address:','City:', 'Type:'];
+	    waterparms.areatag = "";
+
+	    waterlayer.markers = WAddLayerDataO(waterparms);
+
+
+	    var wasteparms = new Object();
+	    wasteparms.request = GXmlHttp.create();
+	    wasteparms.file = "harveySolidWaste.xml";
+	    wasteparms.datatag = "WasteFacility";
+	    wasteparms.infowinname = "infowaste";
+	    wasteparms.iconstyle =  { fillColor: '#F4A460', fillOpacity: 0.8, outlineWeight: 2 };
+	    wasteparms.infotags = ['PlaceName','Address','City','PlaceType'];
+	    wasteparms.infolabels = ['Name:', 'Address:','City:', 'Type:'];
+	    wasteparms.areatag = "";
+
+	    wastelayer.markers = WAddLayerDataO(wasteparms);
+
+  
+//	    var wellparms = new Object();
+//	    wellparms.request = GXmlHttp.create();
+//	    wellparms.file = "macCityWaterWells.xml";
+//	    wellparms.datatag = "WaterWell";
+//	    wellparms.infowinname = "infowell";
+//	    wellparms.iconstyle =  { fillColor: '#00ffff', fillOpacity: 0.8, outlineWeight: 2 };
+//	    wellparms.infotags = ['OWNER','WELL_DEPTH'];
+//	    wellparms.infolabels = ['Owner Name:', 'Depth (in Feet):'];
+//	    wellparms.areatag = "";
+
+//	    welllayer.markers = WAddLayerDataO(wellparms);
+
+	    // load extra text
+	    loadInfoText(); 
+ 
+ 
+}
+
+
+
+        //]]>
+  </script>
+
+
+
+
+
+
+    
+  </head>
+  <body style="font-family: sans-serif; font-size: 10pt" onload="onLoad()">
+    
+    <div style="width:580px;position:absolute; left: 2px; top: 2px;  padding:2px;">
+    <a href="./index.html">The Equus Beds Google Map Project</a> - Harvey County, Kansas
+    </div>
+
+    <!-- Map -->
+    <div id="map" style="border-style:solid; border-width:1px; width: 584px; height: 550px; position:absolute; left: 2px; top: 22px;"></div>
+
+    <!-- Menu -->
+    <div id="menu" title="Control Panel" style="background-color: transparent; width:168px;  position:absolute; left: 587px; top: 2px; padding: 3px;">Layer Menu
+    
+	    <!-- Menu buttons   -->
+	    <ul>
+    		<li id="water" onclick="WToggleLayer(waterlayer)">Water Treatment Facilities</li>
+    		<li id="waste" onclick="WToggleLayer(wastelayer)">Solid Waste Facilities</li>
+    		<li id="cont" onclick="WToggleLayer(contlayer)">Contaminated Sites</li>
+    		<li id="area" onclick="WToggleAreaLayer(arealayer)">Contaminated Areas</li>
+     		<li id="clear" onclick="removeLayers()">Clear Map</li>
+    	    </ul>
+	    <!-- /Menu buttons   -->
+    </div>
+    <!-- /Menu -->
+
+
+    <!-- map key   -->  
+    <div id="mapkey" style="position:absolute; left: 591px; top: 155px;">Key (click item for details)<br>
+    
+	    <ul >
+	    <li onclick="showInfo('infohome')"><div style="display: inline; border: solid 1px; background-color: #0000ff;">&nbsp;&nbsp;&nbsp;</div>
+        	<div style="display: inline;">&nbsp;County Boundary</div>  </li>
+	    <li onclick="showInfo('infowater')"><div style="display: inline; border: solid 1px; background-color: #D3D3D3;">&nbsp;&nbsp;&nbsp;</div>
+        	<div style="display: inline;">&nbsp;Water Treatment Facilities</div> </li>
+	    <li onclick="showInfo('infowaste')"><div style="display: inline; border: solid 1px; background-color: #F4A460;">&nbsp;&nbsp;&nbsp;</div>
+	        <div style="display: inline;">&nbsp;Solid Waste Facilities</div></li>
+	    <li onclick="showInfo('infocont')"><div style="display: inline; border: solid 1px; background-color: #FF4500;">&nbsp;&nbsp;&nbsp;</div>
+	        <div style="display: inline;">&nbsp;Contaminated Site</div></li>
+	    <li onclick="showInfo('infoarea')"><div style="display: inline; border: solid 1px; background-color: #ff6347;">&nbsp;&nbsp;&nbsp;</div>
+	        <div style="display: inline;">&nbsp;Contaminated Area</div> </li>
+	    <li onclick="showInfo('infowell')"><div style="display: inline; border: solid 1px; background-color: #00ffff;">&nbsp;&nbsp;&nbsp;</div>
+	        <div style="display: inline;">&nbsp;Public Water Supply Well</div></li>
+	    </ul>
+    </div>
+    <!-- /map key   -->  
+
+
+    <!-- info box   -->  
+    <div id="content" style="display:none;">
+	    <div id="infohome" style="display:none"><br><br><a href="javascript:showInfo('none');">Close this window</a><br>
+        </div> 
+	    <div id="infocont" style="display:none"> </div>
+	    <div id="infoarea" style="display:none"> </div>
+	    <div id="infowaste" style="display:none"> </div>
+	    <div id="infowater" style="display:none"> </div>
+	    <div id="infowell" style="display:none"> </div>
+     </div>    
+     <!-- /info box -->
+
+</body>
+
+</html>

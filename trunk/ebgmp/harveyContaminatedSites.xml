@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-08-09T14:59:02">
+<ContaminationSite>
+<Rec>1</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C204070822 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> 1701 N. MAIN </PlaceName>
+<Address> 1701 N. MAIN </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/08 </TownshipRangeSection>
+<Latitude>38.06208</Latitude>
+<Longitude>-97.34547</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>2</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C204070826 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> 802 SW 14TH STREET </PlaceName>
+<Address> 802 SW 14TH STREET </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/07 </TownshipRangeSection>
+<Latitude>38.05894</Latitude>
+<Longitude>-97.35981</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>3</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00363 </PlaceID1>
+<PlaceID2>5318</PlaceID2>
+<PlaceName> BPC DIVISION OF BRISTOL </PlaceName>
+<Address> RR 1 </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/25 </TownshipRangeSection>
+<Latitude>38.02121</Latitude>
+<Longitude>-97.38134</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>4</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-01356 </PlaceID1>
+<PlaceID2>4696</PlaceID2>
+<PlaceName> BRYANT SAND &amp; GRAVEL </PlaceName>
+<Address> RR #1, PO BOX 218 </Address>
+<City> BURRTON </City>
+<Zip>67020</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/03W/29 </TownshipRangeSection>
+<Latitude>38.02701</Latitude>
+<Longitude>-97.67642</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>5</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00232 </PlaceID1>
+<PlaceID2>7116</PlaceID2>
+<PlaceName> COASTAL MART # 9130 </PlaceName>
+<Address> 401 N. COMMERCIAL </Address>
+<City> SEDGWICK </City>
+<Zip>67135</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/01W/34 </TownshipRangeSection>
+<Latitude>37.916</Latitude>
+<Longitude>-97.42492</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>6</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-11571 </PlaceID1>
+<PlaceID2>81539</PlaceID2>
+<PlaceName> COLORTYME </PlaceName>
+<Address> 1700 N. MAIN </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/08 </TownshipRangeSection>
+<Latitude>38.06214</Latitude>
+<Longitude>-97.34494</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>7</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00488 </PlaceID1>
+<PlaceID2>28334</PlaceID2>
+<PlaceName> CONCRETE VAULTS </PlaceName>
+<Address> 110 BOYD </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/18 </TownshipRangeSection>
+<Latitude>38.04401</Latitude>
+<Longitude>-97.36293</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>8</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-01319 </PlaceID1>
+<PlaceID2>29711</PlaceID2>
+<PlaceName> E &amp; H FOAM </PlaceName>
+<Address> 101 S. EVANS </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/24 </TownshipRangeSection>
+<Latitude>38.04258</Latitude>
+<Longitude>-97.37621</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>9</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C204000039 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> EAST 10TH STREET, HALSTEAD </PlaceName>
+<Address> E 10TH STREET </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<NatureofContamination> VOLATILE ORGANICS. REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $500,000 - $1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/02W/02 </TownshipRangeSection>
+<Latitude>37.994</Latitude>
+<Longitude>-97.502</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>10</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00861 </PlaceID1>
+<PlaceID2>28096</PlaceID2>
+<PlaceName> FIRE STATION #1, </PlaceName>
+<Address> W BROADWAY &amp; BOYD </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/18 </TownshipRangeSection>
+<Latitude>38.04971</Latitude>
+<Longitude>-97.36301</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>11</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C204000034 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> FULL VISION, INC. </PlaceName>
+<Address>   </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> ACID. HEAVY METALS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/25 </TownshipRangeSection>
+<Latitude>38.025</Latitude>
+<Longitude>-97.382</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>12</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00683 </PlaceID1>
+<PlaceID2>8196</PlaceID2>
+<PlaceName> HALSTEAD, MAINTENANCE SHED </PlaceName>
+<Address> 103 LOCUST </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/02W/36 </TownshipRangeSection>
+<Latitude>38.00487</Latitude>
+<Longitude>-97.49409</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>13</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C204070197 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HAY &amp; FORAGE INDUSTRIES </PlaceName>
+<Address> 420 W LINCOLN BLVD </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> VOLATILE ORGANICS. HEAVY METALS. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $250,000 - $500,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/09 </TownshipRangeSection>
+<Latitude>38.147</Latitude>
+<Longitude>-97.437</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>14</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-11094 </PlaceID1>
+<PlaceID2>1445</PlaceID2>
+<PlaceName> HELD&apos;S </PlaceName>
+<Address> 320 E. 6TH </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/02W/35 </TownshipRangeSection>
+<Latitude>37.99968</Latitude>
+<Longitude>-97.50195</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>15</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00821 </PlaceID1>
+<PlaceID2>29879</PlaceID2>
+<PlaceName> HENSLEY OIL </PlaceName>
+<Address> 203 W. DEAN </Address>
+<City> BURRTON </City>
+<Zip>67020</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/03W/29 </TownshipRangeSection>
+<Latitude>38.02854</Latitude>
+<Longitude>-97.67316</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>16</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-10672 </PlaceID1>
+<PlaceID2>3139</PlaceID2>
+<PlaceName> HENSLEY OIL (W SIDE) </PlaceName>
+<Address> 203 W. DEAN </Address>
+<City> BURRTON </City>
+<Zip>67020</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/03W/20 </TownshipRangeSection>
+<Latitude>38.02916</Latitude>
+<Longitude>-97.67339</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>17</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00193 </PlaceID1>
+<PlaceID2>22864</PlaceID2>
+<PlaceName> HESSTON AUTO TRUCK </PlaceName>
+<Address> 112 N HWY 81 </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/16 </TownshipRangeSection>
+<Latitude>38.13958</Latitude>
+<Longitude>-97.43396</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>18</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00482 </PlaceID1>
+<PlaceID2>28872</PlaceID2>
+<PlaceName> HESSTON CONCRETE </PlaceName>
+<Address> 119 W RUSSER </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/08 </TownshipRangeSection>
+<Latitude>38.15305</Latitude>
+<Longitude>-97.44594</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>19</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00105 </PlaceID1>
+<PlaceID2>23811</PlaceID2>
+<PlaceName> HESSTON CORP </PlaceName>
+<Address> 420 W. LINCOLN BLVD </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/09 </TownshipRangeSection>
+<Latitude>38.14505</Latitude>
+<Longitude>-97.43488</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>20</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00467 </PlaceID1>
+<PlaceID2>25551</PlaceID2>
+<PlaceName> IDAHO TIMBER </PlaceName>
+<Address> 515 INDUSTRIAL ROAD </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/02W/34 </TownshipRangeSection>
+<Latitude>38.00125</Latitude>
+<Longitude>-97.5197</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>21</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00765 </PlaceID1>
+<PlaceID2>1444</PlaceID2>
+<PlaceName> KENNYS 66 (J&amp;M SERVICE) </PlaceName>
+<Address> 205 W HWY 81 </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/16 </TownshipRangeSection>
+<Latitude>38.13931</Latitude>
+<Longitude>-97.4332</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>22</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00649 </PlaceID1>
+<PlaceID2>28174</PlaceID2>
+<PlaceName> KING CONSTRUCTION </PlaceName>
+<Address> OLD HWY 81 </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/16 </TownshipRangeSection>
+<Latitude>38.13724</Latitude>
+<Longitude>-97.43294</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>23</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C204070832 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> KROFF LUMBER </PlaceName>
+<Address>   </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $100,000 - $250,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRYCLEANING TRUST FUND </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/16 </TownshipRangeSection>
+<Latitude>38.142</Latitude>
+<Longitude>-97.438</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>24</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00486 </PlaceID1>
+<PlaceID2>29048</PlaceID2>
+<PlaceName> KROPH LUMBER </PlaceName>
+<Address> 401 N. LANCASTER </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/16 </TownshipRangeSection>
+<Latitude>38.14256</Latitude>
+<Longitude>-97.43279</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>25</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C204000075 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> KSU AGRONOMY FARM (HESSTON AGRONOMY FARM) </PlaceName>
+<Address> HESSTON </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> PESTICIDES. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $50,000 - $100,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/16 </TownshipRangeSection>
+<Latitude>38.133</Latitude>
+<Longitude>-97.445</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>26</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-10564 </PlaceID1>
+<PlaceID2>81322</PlaceID2>
+<PlaceName> KSU, EXPERIMENTAL FIELD </PlaceName>
+<Address> RT 1, BOX 146 </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/16 </TownshipRangeSection>
+<Latitude>38.13256</Latitude>
+<Longitude>-97.4437</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>27</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-10071 </PlaceID1>
+<PlaceID2>81149</PlaceID2>
+<PlaceName> LECKINGTON TRUCKING </PlaceName>
+<Address> 311 S. MERIDIAN </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/24 </TownshipRangeSection>
+<Latitude>38.03971</Latitude>
+<Longitude>-97.37267</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>28</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-01133 </PlaceID1>
+<PlaceID2>29641</PlaceID2>
+<PlaceName> MAIN ST CAR WASH </PlaceName>
+<Address> 1701 N. MAIN </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/08 </TownshipRangeSection>
+<Latitude>38.06219</Latitude>
+<Longitude>-97.34558</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>29</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00584 </PlaceID1>
+<PlaceID2>29044</PlaceID2>
+<PlaceName> MOORESHEAD ESTATE </PlaceName>
+<Address> 613 MERIDIAN </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/24 </TownshipRangeSection>
+<Latitude>38.0374</Latitude>
+<Longitude>-97.37298</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>30</Rec>
+<PlaceType> DRY CLEANER </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2> C204070199 </PlaceID2>
+<PlaceName> NORM&apos;S CLEANERS </PlaceName>
+<Address> 1726 N. MAIN </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> SOLVENT(S) FROM DRY CLEANING OPERATIONS. </NatureofContamination>
+<ExtentofContamination> 0  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRY CLEANER TRUST FUND. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/08 </TownshipRangeSection>
+<Latitude>38.06283</Latitude>
+<Longitude>-97.34503</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>31</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00700 </PlaceID1>
+<PlaceID2>80459</PlaceID2>
+<PlaceName> NORTH NEWTON COOP </PlaceName>
+<Address> HWY 81 &amp; 24TH ST </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/08 </TownshipRangeSection>
+<Latitude>38.0708</Latitude>
+<Longitude>-97.35109</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>32</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800083 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> OXY CITIES SERVICE, BURRTON NGL PLANT SITE </PlaceName>
+<Address> BOX 300, TULSA, OK 74102 </Address>
+<City> BURRTON </City>
+<Zip>67020</Zip>
+<NatureofContamination> REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $100,000 - $250,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/03W/30 </TownshipRangeSection>
+<Latitude>38.019</Latitude>
+<Longitude>-97.698</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>33</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C204070016 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PNG BURRTON COMPRESSOR STATION </PlaceName>
+<Address>   </Address>
+<City> RURAL </City>
+<Zip>67020</Zip>
+<NatureofContamination> REF. PETROLEUM, ETHYLENE GLYCOL </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/03W/21 </TownshipRangeSection>
+<Latitude>38.04286</Latitude>
+<Longitude>-97.66511</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>34</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00653 </PlaceID1>
+<PlaceID2>4708</PlaceID2>
+<PlaceName> PRESTRESSED CONCRETE </PlaceName>
+<Address> 2800 N HWY 81 </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/06 </TownshipRangeSection>
+<Latitude>38.07737</Latitude>
+<Longitude>-97.35922</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>35</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00949 </PlaceID1>
+<PlaceID2>4018</PlaceID2>
+<PlaceName> PROUTY TRUCK LINE </PlaceName>
+<Address> RR 1 </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/09 </TownshipRangeSection>
+<Latitude>38.15891</Latitude>
+<Longitude>-97.44531</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>36</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-01268 </PlaceID1>
+<PlaceID2>1458</PlaceID2>
+<PlaceName> RED&apos;S STANDARD </PlaceName>
+<Address> 201 MAIN </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/02W/35 </TownshipRangeSection>
+<Latitude>38.00428</Latitude>
+<Longitude>-97.50641</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>37</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-11187 </PlaceID1>
+<PlaceID2>1458</PlaceID2>
+<PlaceName> RED&apos;S STANDARD </PlaceName>
+<Address> 201 MAIN </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/02W/35 </TownshipRangeSection>
+<Latitude>38.00428</Latitude>
+<Longitude>-97.50641</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>38</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-01114 </PlaceID1>
+<PlaceID2>80460</PlaceID2>
+<PlaceName> REGENCY MOTORS </PlaceName>
+<Address> 100 N. MERIDAN </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/18 </TownshipRangeSection>
+<Latitude>38.04329</Latitude>
+<Longitude>-97.37165</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>39</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00712 </PlaceID1>
+<PlaceID2>19938</PlaceID2>
+<PlaceName> SEDGWICK MOTORS </PlaceName>
+<Address> 418 N. COMMERCIAL </Address>
+<City> SEDGWICK </City>
+<Zip>67135</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/01W/34 </TownshipRangeSection>
+<Latitude>37.91695</Latitude>
+<Longitude>-97.42436</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>40</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C204000080 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> SEDGWICK PWS WELLS </PlaceName>
+<Address> SEDGWICK (SERVES ANDALE) </Address>
+<City> SEDGWICK </City>
+<Zip>67135</Zip>
+<NatureofContamination> VOLATILE ORGANICS. NITRATES. PESTICIDES. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $100,000 - $250,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/01W/34 </TownshipRangeSection>
+<Latitude>37.918</Latitude>
+<Longitude>-97.422</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>41</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-11743 </PlaceID1>
+<PlaceID2>27566</PlaceID2>
+<PlaceName> SERVICE STATION, THE </PlaceName>
+<Address> 1300 N. MAIN </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/08 </TownshipRangeSection>
+<Latitude>38.05738</Latitude>
+<Longitude>-97.34481</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>42</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00753 </PlaceID1>
+<PlaceID2>26415</PlaceID2>
+<PlaceName> SKEETS SERVICE </PlaceName>
+<Address> 204 S. OLD HWY 81 </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/16 </TownshipRangeSection>
+<Latitude>38.13797</Latitude>
+<Longitude>-97.43007</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>43</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-11689 </PlaceID1>
+<PlaceID2>30005</PlaceID2>
+<PlaceName> SOMMERFELD/PENNER SERV </PlaceName>
+<Address> 1808 N. MAIN </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/08 </TownshipRangeSection>
+<Latitude>38.0635</Latitude>
+<Longitude>-97.345</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>44</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00345 </PlaceID1>
+<PlaceID2>25831</PlaceID2>
+<PlaceName> SUNGLO FEEDS </PlaceName>
+<Address> 226 N. MAIN </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/16 </TownshipRangeSection>
+<Latitude>38.14097</Latitude>
+<Longitude>-97.43173</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>45</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00511 </PlaceID1>
+<PlaceID2>28447</PlaceID2>
+<PlaceName> USD 440, HALSTEAD BUS BAR </PlaceName>
+<Address> 619 W 2ND ST </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/02W/35 </TownshipRangeSection>
+<Latitude>38.00412</Latitude>
+<Longitude>-97.51409</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>46</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-11021 </PlaceID1>
+<PlaceID2>6010</PlaceID2>
+<PlaceName> USD 440, HALSTEAD HIGH SCHOOL </PlaceName>
+<Address> 520 W. 6TH </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/02W/02 </TownshipRangeSection>
+<Latitude>37.99913</Latitude>
+<Longitude>-97.51255</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>47</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00149 </PlaceID1>
+<PlaceID2>9035</PlaceID2>
+<PlaceName> WICHITA WATER DEPT </PlaceName>
+<Address> RR </Address>
+<City> HALSTEAD </City>
+<Zip>67135</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/02W/09 </TownshipRangeSection>
+<Latitude>37.97082</Latitude>
+<Longitude>-97.55529</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>48</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-00457 </PlaceID1>
+<PlaceID2>17917</PlaceID2>
+<PlaceName> WILLEMS OIL </PlaceName>
+<Address> 701 W BROADWAY </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/18 </TownshipRangeSection>
+<Latitude>38.04994</Latitude>
+<Longitude>-97.35791</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</ContaminationSite>
+</dataroot>

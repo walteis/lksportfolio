@@ -1,0 +1,2587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-08-09T12:52:33">
+<ContaminationSite>
+<Rec>1</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870809 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> 129 WEST AVENUE A </PlaceName>
+<Address> 129 WEST AVENUE A STREET </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.05076</Latitude>
+<Longitude>-97.93446</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>2</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870189 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> 17TH &amp; HALSTEAD </PlaceName>
+<Address> 17TH &amp; HALSTEAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $50,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/05 </TownshipRangeSection>
+<Latitude>38.074</Latitude>
+<Longitude>-97.886</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>3</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800032 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> 4TH &amp; CAREY STREET </PlaceName>
+<Address> 4TH &amp; CAREY </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> $5 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.058</Latitude>
+<Longitude>-97.89</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>4</Rec>
+<PlaceType> DRY CLEANER </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> AMERICAN UNIFORM </PlaceName>
+<Address> 2500 N. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> SOLVENT(S) FROM DRY CLEANING OPERATIONS. </NatureofContamination>
+<ExtentofContamination> 1  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRY CLEANER TRUST FUND. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/01 </TownshipRangeSection>
+<Latitude>38.08136</Latitude>
+<Longitude>-97.93143</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>5</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800674 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> AMERICAN UNIFORM (25TH AND MAIN) (FORMER) </PlaceName>
+<Address> 2500 N. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 500 </ExtentofContamination>
+<EstimatedCleanupCost> $100,000 - $250,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRYCLEANING TRUST FUND </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/01 </TownshipRangeSection>
+<Latitude>38.0728</Latitude>
+<Longitude>-97.92288</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>6</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870126 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> ARCO NGL @ HUTCHINSON (FORMER) </PlaceName>
+<Address> 5 MILES SOUTH OF HUTCHINSON </Address>
+<City> HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> INORGANIC. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $100,000 - $250,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 24S/06W/14 </TownshipRangeSection>
+<Latitude>37.968</Latitude>
+<Longitude>-97.948</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>7</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870764 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> BIG CHIEF MOBILE HOME PARK </PlaceName>
+<Address> 2214 E 4TH STREET </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CHLORIDES. INORGANIC. </NatureofContamination>
+<ExtentofContamination> 25 </ExtentofContamination>
+<EstimatedCleanupCost> $100,000 - $250,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.05979</Latitude>
+<Longitude>-97.8885</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>8</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01101 </PlaceID1>
+<PlaceID2>26618</PlaceID2>
+<PlaceName> BIG M TRUCK STOP </PlaceName>
+<Address> 2001 S. LORRAINE </Address>
+<City> HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/30 </TownshipRangeSection>
+<Latitude>38.02629</Latitude>
+<Longitude>-97.90405</Longitude>
+<LocationMethod> A3 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>9</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01292 </PlaceID1>
+<PlaceID2>12177</PlaceID2>
+<PlaceName> BRIDGEMAN OIL </PlaceName>
+<Address> 109 CLAY </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/18 </TownshipRangeSection>
+<Latitude>38.05386</Latitude>
+<Longitude>-97.91121</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>10</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00665 </PlaceID1>
+<PlaceID2>7708</PlaceID2>
+<PlaceName> BRIDGEMAN OIL </PlaceName>
+<Address> 200 E. AVE A </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.05127</Latitude>
+<Longitude>-97.92794</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>11</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-040-01287 </PlaceID1>
+<PlaceID2>25778</PlaceID2>
+<PlaceName> BRIDGEMAN OIL CO </PlaceName>
+<Address> BLAINE &amp; FRISCO </Address>
+<City> BURRTON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination>  5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/25 </TownshipRangeSection>
+<Latitude>38.02595</Latitude>
+<Longitude>-97.93996</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>12</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00189 </PlaceID1>
+<PlaceID2>12178</PlaceID2>
+<PlaceName> BRIDGEMAN OIL CO </PlaceName>
+<Address> 600 N. MAIN </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/24 </TownshipRangeSection>
+<Latitude>38.03552</Latitude>
+<Longitude>-97.93995</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>13</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00355 </PlaceID1>
+<PlaceID2>25247</PlaceID2>
+<PlaceName> BUHLER BULK FUEL </PlaceName>
+<Address> 101 S. MAIN </Address>
+<City> BUHLER </City>
+<Zip>67522</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/04W/16 </TownshipRangeSection>
+<Latitude>38.1345</Latitude>
+<Longitude>-97.7704</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>14</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00374 </PlaceID1>
+<PlaceID2>25236</PlaceID2>
+<PlaceName> CAL MAINE FOODS </PlaceName>
+<Address> 110 S. AVE </Address>
+<City> BUHLER </City>
+<Zip>67522</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/04W/16 </TownshipRangeSection>
+<Latitude>38.13097</Latitude>
+<Longitude>-97.77044</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>15</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870855 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CARGILL SALT </PlaceName>
+<Address> 609 E AVENUE G </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/19 </TownshipRangeSection>
+<Latitude>38.04286</Latitude>
+<Longitude>-97.92045</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>16</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00197 </PlaceID1>
+<PlaceID2>40516</PlaceID2>
+<PlaceName> CARGILL SALT </PlaceName>
+<Address> BOX 1403 </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/19 </TownshipRangeSection>
+<Latitude>38.04111</Latitude>
+<Longitude>-97.91849</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>17</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-10700 </PlaceID1>
+<PlaceID2>81383</PlaceID2>
+<PlaceName> CASE CORPORATION </PlaceName>
+<Address> 1100 WILBECK DR </Address>
+<City> HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/25 </TownshipRangeSection>
+<Latitude>38.01389</Latitude>
+<Longitude>-97.92418</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>18</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00436 </PlaceID1>
+<PlaceID2>25549</PlaceID2>
+<PlaceName> CENTRAL CHRISTIAN SCHOOL </PlaceName>
+<Address> 1910 E. 30TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/05W/32 </TownshipRangeSection>
+<Latitude>38.08717</Latitude>
+<Longitude>-97.8876</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>19</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800558 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CESSNA/EATON (EAST 4TH ST. FACILITY) </PlaceName>
+<Address> 4TH &amp; AIRPORT ROAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> &gt;$1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/16 </TownshipRangeSection>
+<Latitude>38.055</Latitude>
+<Longitude>-97.871</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>20</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-10709 </PlaceID1>
+<PlaceID2>748</PlaceID2>
+<PlaceName> CHARLIE&apos;S 66 </PlaceName>
+<Address> 2330 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.05793</Latitude>
+<Longitude>-97.88786</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>21</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12367 </PlaceID1>
+<PlaceID2>748</PlaceID2>
+<PlaceName> CHARLIE&apos;S 66 </PlaceName>
+<Address> 2330 W. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.05793</Latitude>
+<Longitude>-97.88786</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>22</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00865 </PlaceID1>
+<PlaceID2>7202</PlaceID2>
+<PlaceName> COASTAL MART # 9106 </PlaceName>
+<Address> 900 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/07 </TownshipRangeSection>
+<Latitude>38.05785</Latitude>
+<Longitude>-97.9128</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>23</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00764 </PlaceID1>
+<PlaceID2>24054</PlaceID2>
+<PlaceName> COLLINS AMBULANCE </PlaceName>
+<Address> HUTCHINSON AIR BASE </Address>
+<City> HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/29 </TownshipRangeSection>
+<Latitude>37.93196</Latitude>
+<Longitude>-97.8975</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>24</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00933 </PlaceID1>
+<PlaceID2>24061</PlaceID2>
+<PlaceName> COLLINS BUS CORP </PlaceName>
+<Address> 415 W. 6TH ST </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/23 </TownshipRangeSection>
+<Latitude>38.03436</Latitude>
+<Longitude>-97.94772</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>25</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00816 </PlaceID1>
+<PlaceID2>12986</PlaceID2>
+<PlaceName> CONKLIN CARS </PlaceName>
+<Address> HWY 61 &amp; E. 11TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.06537</Latitude>
+<Longitude>-97.90217</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>26</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870820 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CONSOLIDATED MANUFACTURING SITE </PlaceName>
+<Address> 1600 N HALSTEAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. HEAVY METALS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/09 </TownshipRangeSection>
+<Latitude>38.07</Latitude>
+<Longitude>-97.882</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>27</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870830 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CONSOLIDATED STORAGE </PlaceName>
+<Address> K96 AND YAGGY ROAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67561</Zip>
+<NatureofContamination> CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/06W/29 </TownshipRangeSection>
+<Latitude>38.1041</Latitude>
+<Longitude>-98.0145</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>28</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00856 </PlaceID1>
+<PlaceID2>29067</PlaceID2>
+<PlaceName> DANNY&apos;S OK SERV </PlaceName>
+<Address> 25 E. 30TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/01 </TownshipRangeSection>
+<Latitude>38.08634</Latitude>
+<Longitude>-97.93011</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>29</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870824 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> DELUXE SPECIALTIES MFG. CO. </PlaceName>
+<Address> WASP AND LEXINGTON ROADS </Address>
+<City> YODER </City>
+<Zip>67505</Zip>
+<NatureofContamination> VOLATILE ORGANICS. BASE NEUTRAL. HEAVY METALS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/29 </TownshipRangeSection>
+<Latitude>37.92767</Latitude>
+<Longitude>-97.89378</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>30</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-10885 </PlaceID1>
+<PlaceID2>786</PlaceID2>
+<PlaceName> DICK ENTERPRISE, INC. </PlaceName>
+<Address> 1215 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/18 </TownshipRangeSection>
+<Latitude>38.0575</Latitude>
+<Longitude>-97.90614</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>31</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01174 </PlaceID1>
+<PlaceID2>23254</PlaceID2>
+<PlaceName> DILLON&apos;S STORES </PlaceName>
+<Address> 2700 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/09 </TownshipRangeSection>
+<Latitude>38.05824</Latitude>
+<Longitude>-97.88035</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>32</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-11103 </PlaceID1>
+<PlaceID2>23254</PlaceID2>
+<PlaceName> DILLON&apos;S STORES </PlaceName>
+<Address> 2700 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/09 </TownshipRangeSection>
+<Latitude>38.05824</Latitude>
+<Longitude>-97.88035</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>33</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01021 </PlaceID1>
+<PlaceID2>14257</PlaceID2>
+<PlaceName> FAIRVIEW SERVICE </PlaceName>
+<Address> 6805 W HWY 61 </Address>
+<City> HUTCHINSON </City>
+<Zip>67566</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 24S/07W/11 </TownshipRangeSection>
+<Latitude>37.98004</Latitude>
+<Longitude>-98.06366</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>34</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01317 </PlaceID1>
+<PlaceID2>3866</PlaceID2>
+<PlaceName> FARMERS COOP ELEVATOR </PlaceName>
+<Address> 1200 W. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/11 </TownshipRangeSection>
+<Latitude>38.05731</Latitude>
+<Longitude>-97.95617</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>35</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870173 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> FARMLAND - OBEE ROAD </PlaceName>
+<Address> 3501 E 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $500,000 - $1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/16 </TownshipRangeSection>
+<Latitude>38.05753</Latitude>
+<Longitude>-97.86806</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>36</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870053 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> FARMLAND INDUSTRIES - S HUTCHINSON </PlaceName>
+<Address> 500 WEST D ST. </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> &gt;$1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/26 </TownshipRangeSection>
+<Latitude>38.023</Latitude>
+<Longitude>-97.947</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>37</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01129 </PlaceID1>
+<PlaceID2>9026</PlaceID2>
+<PlaceName> FINA # 9479 (T &amp; E OIL #17) </PlaceName>
+<Address> 125 W. 4TH AVE </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.05711</Latitude>
+<Longitude>-97.93508</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>38</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870012 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> FMGP - HUTCHINSON </PlaceName>
+<Address> NW CORNER, 2ND AT ADAMS </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. HEAVY METALS. INORGANIC. REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $50,000 - $100,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.05539</Latitude>
+<Longitude>-97.93631</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>39</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00181 </PlaceID1>
+<PlaceID2>25800</PlaceID2>
+<PlaceName> FULL SERVICE BEVERAGE </PlaceName>
+<Address> 340 N. WALNUT </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/23 </TownshipRangeSection>
+<Latitude>38.02872</Latitude>
+<Longitude>-97.94397</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>40</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00578 </PlaceID1>
+<PlaceID2>80286</PlaceID2>
+<PlaceName> GARY&apos;S AUTO CENTER </PlaceName>
+<Address> 100 N. MAIN </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/24 </TownshipRangeSection>
+<Latitude>38.02896</Latitude>
+<Longitude>-97.93974</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>41</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01344 </PlaceID1>
+<PlaceID2>28711</PlaceID2>
+<PlaceName> GENERAL STORES OF WESTBOR </PlaceName>
+<Address> 1301 W. 30TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/02 </TownshipRangeSection>
+<Latitude>38.08576</Latitude>
+<Longitude>-97.95559</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>42</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00231 </PlaceID1>
+<PlaceID2>80328</PlaceID2>
+<PlaceName> HALF CIRCLE INN </PlaceName>
+<Address> 400 N. MAIN </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/24 </TownshipRangeSection>
+<Latitude>38.03306</Latitude>
+<Longitude>-97.93996</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>43</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00845 </PlaceID1>
+<PlaceID2>29094</PlaceID2>
+<PlaceName> HAMILTION ROOFING </PlaceName>
+<Address> 310 HALSTEAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/17 </TownshipRangeSection>
+<Latitude>38.057</Latitude>
+<Longitude>-97.88556</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>44</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12735 </PlaceID1>
+<PlaceID2>26916</PlaceID2>
+<PlaceName> HAROLD&apos;S CAR CARE &amp; WASH </PlaceName>
+<Address> 207 W. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.05708</Latitude>
+<Longitude>-97.93567</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>45</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00158 </PlaceID1>
+<PlaceID2>15316</PlaceID2>
+<PlaceName> HAVEN COOP OIL </PlaceName>
+<Address> RR 2 </Address>
+<City> HAVEN </City>
+<Zip>67543</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 25S/04W/05 </TownshipRangeSection>
+<Latitude>37.90271</Latitude>
+<Longitude>-97.78315</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>46</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12918 </PlaceID1>
+<PlaceID2>8682</PlaceID2>
+<PlaceName> HIGHWAY OIL # 743 </PlaceName>
+<Address> 5TH &amp; WASHINGTION </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.05859</Latitude>
+<Longitude>-97.93365</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>47</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00041 </PlaceID1>
+<PlaceID2>8682</PlaceID2>
+<PlaceName> HIGHWAY OIL # 743 </PlaceName>
+<Address> 5TH &amp; WASHINGTION </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.05859</Latitude>
+<Longitude>-97.93365</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>48</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800089 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON AIR BASE INDUSTRIAL TRACT (HABIT) </PlaceName>
+<Address> GREENFIELD &amp; HALSTEAD ROAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> $500,000 - $1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/31 </TownshipRangeSection>
+<Latitude>37.916</Latitude>
+<Longitude>-97.917</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>49</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00242 </PlaceID1>
+<PlaceID2>9078</PlaceID2>
+<PlaceName> HUTCHINSON CENTRAL GARA </PlaceName>
+<Address> 216 E. AVENUE C </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.04861</Latitude>
+<Longitude>-97.92786</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>50</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-11272 </PlaceID1>
+<PlaceID2>29053</PlaceID2>
+<PlaceName> HUTCHINSON CORRECTIONAL </PlaceName>
+<Address> 400 S. HALSTEAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/16 </TownshipRangeSection>
+<Latitude>38.04775</Latitude>
+<Longitude>-97.88466</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>51</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12274 </PlaceID1>
+<PlaceID2>24189</PlaceID2>
+<PlaceName> HUTCHINSON CORRECTIONAL </PlaceName>
+<Address> 500 REFORMATORY </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/18 </TownshipRangeSection>
+<Latitude>38.04681</Latitude>
+<Longitude>-97.91164</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>52</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00645 </PlaceID1>
+<PlaceID2>29053</PlaceID2>
+<PlaceName> HUTCHINSON CORRECTIONAL </PlaceName>
+<Address> 400 S. HALSTEAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/16 </TownshipRangeSection>
+<Latitude>38.04775</Latitude>
+<Longitude>-97.88466</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>53</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870723 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON HIDE </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CHLORIDES. INORGANIC. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> $500,000 - $1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/17 </TownshipRangeSection>
+<Latitude>38.057</Latitude>
+<Longitude>-97.887</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>54</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00504 </PlaceID1>
+<PlaceID2>88888</PlaceID2>
+<PlaceName> HUTCHINSON MEMORIAL PARK </PlaceName>
+<Address> 5905 W. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/18 </TownshipRangeSection>
+<Latitude>38.05556</Latitude>
+<Longitude>-98.02113</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>55</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01201 </PlaceID1>
+<PlaceID2>9080</PlaceID2>
+<PlaceName> HUTCHINSON PARK DEPT </PlaceName>
+<Address> 1600 S. ELM </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/24 </TownshipRangeSection>
+<Latitude>38.03302</Latitude>
+<Longitude>-97.92422</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>56</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01288 </PlaceID1>
+<PlaceID2>25621</PlaceID2>
+<PlaceName> HUTCHINSON SERV CENTER </PlaceName>
+<Address> 1000 N. HALSTEAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/09 </TownshipRangeSection>
+<Latitude>38.06381</Latitude>
+<Longitude>-97.88483</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>57</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00825 </PlaceID1>
+<PlaceID2>9079</PlaceID2>
+<PlaceName> HUTCHINSON WATER MAINT. </PlaceName>
+<Address> 805 E. 2ND </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/18 </TownshipRangeSection>
+<Latitude>38.05467</Latitude>
+<Longitude>-97.9149</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>58</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870784 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> IMC SALT INC. </PlaceName>
+<Address> 1800 CAREY BLVD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> &gt;$1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/17 </TownshipRangeSection>
+<Latitude>38.051</Latitude>
+<Longitude>-97.899</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>59</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01196 </PlaceID1>
+<PlaceID2>2916</PlaceID2>
+<PlaceName> INDEPENDENT OIL </PlaceName>
+<Address> 128 N. MAIN </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/24 </TownshipRangeSection>
+<Latitude>38.03019</Latitude>
+<Longitude>-97.94004</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>60</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207803027 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> INEEDA - NORTHGATE </PlaceName>
+<Address> 525 E 30TH AVENUE </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> $100,000 - $250,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRYCLEANING TRUST FUND </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/06 </TownshipRangeSection>
+<Latitude>38.08473</Latitude>
+<Longitude>-97.91941</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>61</Rec>
+<PlaceType> DRY CLEANER </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> INEEDA DRY CLEANERS </PlaceName>
+<Address> 1224 N. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> SOLVENT(S) FROM DRY CLEANING OPERATIONS. </NatureofContamination>
+<ExtentofContamination>  0 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRY CLEANER TRUST FUND. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.06712</Latitude>
+<Longitude>-97.93166</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>62</Rec>
+<PlaceType> DRY CLEANER </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> INEEDA DRY CLEANERS </PlaceName>
+<Address> 525 E. 30TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> SOLVENT(S) FROM DRY CLEANING OPERATIONS. </NatureofContamination>
+<ExtentofContamination>  0 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRY CLEANER TRUST FUND. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/06 </TownshipRangeSection>
+<Latitude>38.08594</Latitude>
+<Longitude>-97.91994</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>63</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207803034 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> INEEDA LAUNDRY AND DRY CLEANER(13TH AND MAIN) </PlaceName>
+<Address> 1224 N MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRYCLEANING TRUST FUND </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.06637</Latitude>
+<Longitude>-97.92868</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>64</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-11167 </PlaceID1>
+<PlaceID2>24194</PlaceID2>
+<PlaceName> KANSAS STATE FAIR </PlaceName>
+<Address> 20TH &amp; POPLAR </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/01 </TownshipRangeSection>
+<Latitude>38.0752</Latitude>
+<Longitude>-97.92251</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>65</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00826 </PlaceID1>
+<PlaceID2>26714</PlaceID2>
+<PlaceName> KDOT </PlaceName>
+<Address> 500 N. HENDRICKS </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/11 </TownshipRangeSection>
+<Latitude>38.05979</Latitude>
+<Longitude>-97.95851</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>66</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-10286 </PlaceID1>
+<PlaceID2>29017</PlaceID2>
+<PlaceName> KING OIL CO., DOSKOCIL </PlaceName>
+<Address> WALUNT &amp; STATE </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/23 </TownshipRangeSection>
+<Latitude>38.02872</Latitude>
+<Longitude>-97.94347</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>67</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870833 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> KOCH HILLSIDE </PlaceName>
+<Address> 1910 S. BROAD ROAD </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/28 </TownshipRangeSection>
+<Latitude>38.024</Latitude>
+<Longitude>-97.992</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>68</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-11189 </PlaceID1>
+<PlaceID2>24066</PlaceID2>
+<PlaceName> KRAUSE PLOW CORP </PlaceName>
+<Address> 305 S. MONROE </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/14 </TownshipRangeSection>
+<Latitude>38.04971</Latitude>
+<Longitude>-97.94164</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>69</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00582 </PlaceID1>
+<PlaceID2>24066</PlaceID2>
+<PlaceName> KRAUSE PLOW CORP </PlaceName>
+<Address> 305 S. MONROE </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/14 </TownshipRangeSection>
+<Latitude>38.04974</Latitude>
+<Longitude>-97.94597</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>70</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800048 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> KRAUSE PLOW CORP LANDFILL </PlaceName>
+<Address> 305 MONROE </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> HEAVY METALS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/14 </TownshipRangeSection>
+<Latitude>38.048</Latitude>
+<Longitude>-97.944</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>71</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-10984 </PlaceID1>
+<PlaceID2>6648</PlaceID2>
+<PlaceName> KWIK SHOP # 766 </PlaceName>
+<Address> 1329 E. 17TH ST </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/07 </TownshipRangeSection>
+<Latitude>38.07213</Latitude>
+<Longitude>-97.90511</Longitude>
+<LocationMethod> A3 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>72</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870600 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> LOWEN CORP. - 15TH &amp; HALSTEAD </PlaceName>
+<Address> 1501 N HALSTEAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. HEAVY METALS. REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $250,000 - $500,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.071</Latitude>
+<Longitude>-97.887</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>73</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870599 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> LOWEN CORP. - 4TH &amp; LORRAINE </PlaceName>
+<Address> 1330 E 4TH AVENUE </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $250,000 - $500,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/07 </TownshipRangeSection>
+<Latitude>38.05783</Latitude>
+<Longitude>-97.90442</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>74</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00798 </PlaceID1>
+<PlaceID2>29092</PlaceID2>
+<PlaceName> LUMINOUS NEON </PlaceName>
+<Address> 1429 W. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/14 </TownshipRangeSection>
+<Latitude>38.05686</Latitude>
+<Longitude>-97.95805</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>75</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870771 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> MAIN AND AVENUE G - HUTCHINSON </PlaceName>
+<Address> 600 BLOCK OF SOUTH MAIN STREET </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. HEAVY METALS. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> $100,000 - $250,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.043</Latitude>
+<Longitude>-97.929</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>76</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00560 </PlaceID1>
+<PlaceID2>3240</PlaceID2>
+<PlaceName> MCCUBBIN SERVICE </PlaceName>
+<Address> 124 E. MAIN </Address>
+<City> PRETTY PRAIRIE </City>
+<Zip>67570</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 26S/06W/18 </TownshipRangeSection>
+<Latitude>37.78112</Latitude>
+<Longitude>-98.01785</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>77</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01361 </PlaceID1>
+<PlaceID2>25777</PlaceID2>
+<PlaceName> MID AMERICA REDI-MIX </PlaceName>
+<Address> 2510 W. BLANCHARD </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/22 </TownshipRangeSection>
+<Latitude>38.02876</Latitude>
+<Longitude>-97.9725</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>78</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-11271 </PlaceID1>
+<PlaceID2>797</PlaceID2>
+<PlaceName> MID KANSAS COOP </PlaceName>
+<Address> 217 S. MAIN </Address>
+<City> BUHLER </City>
+<Zip>67522</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/04W/16 </TownshipRangeSection>
+<Latitude>38.13305</Latitude>
+<Longitude>-97.77082</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>79</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00239 </PlaceID1>
+<PlaceID2>797</PlaceID2>
+<PlaceName> MID KANSAS COOP </PlaceName>
+<Address> 217 S. MAIN </Address>
+<City> BUHLER </City>
+<Zip>67522</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/04W/16 </TownshipRangeSection>
+<Latitude>38.13305</Latitude>
+<Longitude>-97.77082</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>80</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00194 </PlaceID1>
+<PlaceID2>28039</PlaceID2>
+<PlaceName> MIDWEST IRON &amp; METAL </PlaceName>
+<Address> 628 S. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.04314</Latitude>
+<Longitude>-97.93125</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>81</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870834 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> MORTON SALT CO. </PlaceName>
+<Address> 1000 MORTON ROAD </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/23 </TownshipRangeSection>
+<Latitude>38.038</Latitude>
+<Longitude>-97.958</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>82</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800053 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> NICKERSON PWS WELL #6 </PlaceName>
+<Address> NICKERSON </Address>
+<City> NICKERSON </City>
+<Zip>67561</Zip>
+<NatureofContamination> REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/07W/15 </TownshipRangeSection>
+<Latitude>38.14425</Latitude>
+<Longitude>-98.0845</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>83</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870111 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> OBEE ROAD, AIRPORT SUBSITE </PlaceName>
+<Address> 4TH &amp; AIRPORT ROAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> &gt;$1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/10 </TownshipRangeSection>
+<Latitude>38.061</Latitude>
+<Longitude>-97.858</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>84</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800056 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> OBEE ROAD, LANDFILL SUBSITE </PlaceName>
+<Address> E 4TH &amp; OBEE ROAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> &lt;$50,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/10 </TownshipRangeSection>
+<Latitude>38.065</Latitude>
+<Longitude>-97.852</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>85</Rec>
+<PlaceType> DRY CLEANER </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> ONE HOUR MARTINIZING </PlaceName>
+<Address> 2526 N. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> SOLVENT(S) FROM DRY CLEANING OPERATIONS. </NatureofContamination>
+<ExtentofContamination> 0  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRY CLEANER TRUST FUND. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/01 </TownshipRangeSection>
+<Latitude>38.08193</Latitude>
+<Longitude>-97.93152</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>86</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800598 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> OXY USA, INC., HUTCHINSON </PlaceName>
+<Address> 1910 S. BROAD ROAD </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. CHLORIDES. HEAVY METALS. INORGANIC. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> $250,000 - $500,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/22 </TownshipRangeSection>
+<Latitude>38.033</Latitude>
+<Longitude>-97.975</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>87</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870073 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PANHANDLE EASTERN - HAVEN COMPRESSOR STATION </PlaceName>
+<Address>   </Address>
+<City> HAVEN </City>
+<Zip>67543</Zip>
+<NatureofContamination> VOLATILE ORGANICS. HEAVY METALS. REF. PETROLEUM. </NatureofContamination>
+<ExtentofContamination> 5  </ExtentofContamination>
+<EstimatedCleanupCost> $50,000 - $100,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 25S/04W/06 </TownshipRangeSection>
+<Latitude>37.908</Latitude>
+<Longitude>-97.809</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>88</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01220 </PlaceID1>
+<PlaceID2>27227</PlaceID2>
+<PlaceName> PANTRY + OF HAVEN </PlaceName>
+<Address> K- 96 HWY </Address>
+<City> HAVEN </City>
+<Zip>67543</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 25S/04W/08 </TownshipRangeSection>
+<Latitude>37.8971</Latitude>
+<Longitude>-97.78207</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>89</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00886 </PlaceID1>
+<PlaceID2>27426</PlaceID2>
+<PlaceName> PANTRY PLUS </PlaceName>
+<Address> 12 S. NICKERSON </Address>
+<City> NICKERSON </City>
+<Zip>67561</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/07W/10 </TownshipRangeSection>
+<Latitude>38.14508</Latitude>
+<Longitude>-98.08345</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>90</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00469 </PlaceID1>
+<PlaceID2>4937</PlaceID2>
+<PlaceName> PARTRIDGE COOP </PlaceName>
+<Address> 31 N. MAIN </Address>
+<City> PARTRIDGE </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/07W/33 </TownshipRangeSection>
+<Latitude>38.01344</Latitude>
+<Longitude>-98.09237</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>91</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01100 </PlaceID1>
+<PlaceID2>774</PlaceID2>
+<PlaceName> PATLYN OIL </PlaceName>
+<Address> 828 W. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/11 </TownshipRangeSection>
+<Latitude>38.05737</Latitude>
+<Longitude>-97.94937</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>92</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01269 </PlaceID1>
+<PlaceID2>774</PlaceID2>
+<PlaceName> PATLYN OIL </PlaceName>
+<Address> 828 W. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/11 </TownshipRangeSection>
+<Latitude>38.05737</Latitude>
+<Longitude>-97.94937</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>93</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01009 </PlaceID1>
+<PlaceID2>24549</PlaceID2>
+<PlaceName> PEPSI COLA </PlaceName>
+<Address> 800 WILBECK DR </Address>
+<City> HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/25 </TownshipRangeSection>
+<Latitude>38.01411</Latitude>
+<Longitude>-97.92759</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>94</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00540 </PlaceID1>
+<PlaceID2>781</PlaceID2>
+<PlaceName> PHILLIPS 66 </PlaceName>
+<Address> 629 E. 30TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/06 </TownshipRangeSection>
+<Latitude>38.08632</Latitude>
+<Longitude>-97.91779</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>95</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12423 </PlaceID1>
+<PlaceID2>6584</PlaceID2>
+<PlaceName> PIC QUIK </PlaceName>
+<Address> 806 W. 4TH ST </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/11 </TownshipRangeSection>
+<Latitude>38.05721</Latitude>
+<Longitude>-97.94884</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>96</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00652 </PlaceID1>
+<PlaceID2>6790</PlaceID2>
+<PlaceName> PIC QUIK </PlaceName>
+<Address> 901 E. 11TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/07 </TownshipRangeSection>
+<Latitude>38.06441</Latitude>
+<Longitude>-97.91287</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>97</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-10433 </PlaceID1>
+<PlaceID2>6792</PlaceID2>
+<PlaceName> PIC QUIK #7 </PlaceName>
+<Address> 428 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.05759</Latitude>
+<Longitude>-97.92238</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>98</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800675 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PIERCE METALS SITE </PlaceName>
+<Address> ONE MI. EAST OF HUTCHINSON ON E. 4TH ST. </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. HEAVY METALS. </NatureofContamination>
+<ExtentofContamination> 5  </ExtentofContamination>
+<EstimatedCleanupCost> &lt;$50,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/13 </TownshipRangeSection>
+<Latitude>38.057</Latitude>
+<Longitude>-97.828</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>99</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01085 </PlaceID1>
+<PlaceID2>26449</PlaceID2>
+<PlaceName> PIONEER HI BRED </PlaceName>
+<Address> RT 2 (HABIT) </Address>
+<City> HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/28 </TownshipRangeSection>
+<Latitude>37.93998</Latitude>
+<Longitude>-97.88486</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>100</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01343 </PlaceID1>
+<PlaceID2>15866</PlaceID2>
+<PlaceName> POTTER, EVERETT </PlaceName>
+<Address> 2121 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/17 </TownshipRangeSection>
+<Latitude>38.05761</Latitude>
+<Longitude>-97.89048</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>101</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00824 </PlaceID1>
+<PlaceID2>25485</PlaceID2>
+<PlaceName> PRAIRIE DUNES CC </PlaceName>
+<Address> 4812 E. 30TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/05W/35 </TownshipRangeSection>
+<Latitude>38.09134</Latitude>
+<Longitude>-97.84793</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>102</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12412 </PlaceID1>
+<PlaceID2>18780</PlaceID2>
+<PlaceName> RADKE OIL </PlaceName>
+<Address> 1700 N. PLUM </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/06 </TownshipRangeSection>
+<Latitude>38.07229</Latitude>
+<Longitude>-97.92169</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>103</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00876 </PlaceID1>
+<PlaceID2>88888</PlaceID2>
+<PlaceName> RAWHIDE TRUCKING </PlaceName>
+<Address> 800 GRAND </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.06205</Latitude>
+<Longitude>-97.88771</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>104</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-11186 </PlaceID1>
+<PlaceID2>28044</PlaceID2>
+<PlaceName> REGER RENTAL </PlaceName>
+<Address> 630 N. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.05993</Latitude>
+<Longitude>-97.93206</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>105</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00508 </PlaceID1>
+<PlaceID2>19186</PlaceID2>
+<PlaceName> REGER RENTAL </PlaceName>
+<Address> 615 N. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.06009</Latitude>
+<Longitude>-97.93208</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>106</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00354 </PlaceID1>
+<PlaceID2>7892</PlaceID2>
+<PlaceName> RENO CO AUTO </PlaceName>
+<Address> 626 N. MAIN </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/24 </TownshipRangeSection>
+<Latitude>38.03611</Latitude>
+<Longitude>-97.93996</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>107</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12336 </PlaceID1>
+<PlaceID2>7892</PlaceID2>
+<PlaceName> RENO CO AUTOMOBILE </PlaceName>
+<Address> 626 N. MAIN </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/24 </TownshipRangeSection>
+<Latitude>38.03611</Latitude>
+<Longitude>-97.93996</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>108</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870732 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO COUNTY LANDFILL </PlaceName>
+<Address> CORNER OF CLARK &amp; MOHAWK ROADS </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. CHLORIDES. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> &gt;$1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/17 </TownshipRangeSection>
+<Latitude>38.0428</Latitude>
+<Longitude>-97.99571</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>109</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00186 </PlaceID1>
+<PlaceID2>25657</PlaceID2>
+<PlaceName> RUFFIN OIL </PlaceName>
+<Address> 1000 W. 4TH BOX 37 </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/14 </TownshipRangeSection>
+<Latitude>38.05698</Latitude>
+<Longitude>-97.95257</Longitude>
+<LocationMethod> A3 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>110</Rec>
+<PlaceType> DRY CLEANER </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2> C207870351 </PlaceID2>
+<PlaceName> SAYLOR DRY CLEANERS </PlaceName>
+<Address> 600 N. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> SOLVENT(S) FROM DRY CLEANING OPERATIONS. </NatureofContamination>
+<ExtentofContamination> 0  </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> DRY CLEANER TRUST FUND. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.05989</Latitude>
+<Longitude>-97.93526</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>111</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870770 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> SECOND AND KIRBY - HUTCHINSON </PlaceName>
+<Address> 301 N. KIRBY </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $250,000 - $500,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> RESPONSIBLE PARTY </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/16 </TownshipRangeSection>
+<Latitude>38.05231</Latitude>
+<Longitude>-97.86722</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>112</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00157 </PlaceID1>
+<PlaceID2>3080</PlaceID2>
+<PlaceName> SHOWALTER OIL </PlaceName>
+<Address> REDROCK RD </Address>
+<City> YODER </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/21 </TownshipRangeSection>
+<Latitude>37.94108</Latitude>
+<Longitude>-97.86833</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>113</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00099 </PlaceID1>
+<PlaceID2>3080</PlaceID2>
+<PlaceName> SHOWALTER OIL COOP </PlaceName>
+<Address> REDROCK RD </Address>
+<City> YODER </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/21 </TownshipRangeSection>
+<Latitude>37.94108</Latitude>
+<Longitude>-97.86833</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>114</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800064 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> SODA-ASH-WASTE DISPOSAL </PlaceName>
+<Address> GRAND &amp; 11TH AVENUE </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CHLORIDES. INORGANIC. </NatureofContamination>
+<ExtentofContamination> 500  </ExtentofContamination>
+<EstimatedCleanupCost> &gt;$1 MILLION </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.064</Latitude>
+<Longitude>-97.888</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>115</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800043 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> SOUTH HUTCHINSON AREA </PlaceName>
+<Address>   </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> INORGANIC. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/19 </TownshipRangeSection>
+<Latitude>38.041</Latitude>
+<Longitude>-97.917</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>116</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12855 </PlaceID1>
+<PlaceID2>20413</PlaceID2>
+<PlaceName> STROHL OIL </PlaceName>
+<Address> MAIN &amp; ELM </Address>
+<City> PRETTY PRAIRIE </City>
+<Zip>67570</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 26S/06W/18 </TownshipRangeSection>
+<Latitude>37.78071</Latitude>
+<Longitude>-98.01783</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>117</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00760 </PlaceID1>
+<PlaceID2>20413</PlaceID2>
+<PlaceName> STROHL OIL </PlaceName>
+<Address> MAIN &amp; ELM </Address>
+<City> PRETTY PRAIRIE </City>
+<Zip>67570</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 26S/06W/18 </TownshipRangeSection>
+<Latitude>37.78071</Latitude>
+<Longitude>-98.01783</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>118</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12390 </PlaceID1>
+<PlaceID2>6839</PlaceID2>
+<PlaceName> T &amp; E OIL </PlaceName>
+<Address> 1123 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/18 </TownshipRangeSection>
+<Latitude>38.05745</Latitude>
+<Longitude>-97.9082</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>119</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01207 </PlaceID1>
+<PlaceID2>9028</PlaceID2>
+<PlaceName> T &amp; E OIL #16 </PlaceName>
+<Address> 228 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.05754</Latitude>
+<Longitude>-97.92651</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>120</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01192 </PlaceID1>
+<PlaceID2>309</PlaceID2>
+<PlaceName> TOWN &amp; COUNTRY # 70 </PlaceName>
+<Address> 701 N. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.06099</Latitude>
+<Longitude>-97.93225</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>121</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01193 </PlaceID1>
+<PlaceID2>27943</PlaceID2>
+<PlaceName> TOWN &amp; COUNTRY # 76 </PlaceName>
+<Address> 128 E. 4TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.05764</Latitude>
+<Longitude>-97.92856</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>122</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00179 </PlaceID1>
+<PlaceID2>28724</PlaceID2>
+<PlaceName> U-DO-IT (FORMER) </PlaceName>
+<Address> 1215 E. 30TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/06 </TownshipRangeSection>
+<Latitude>38.08646</Latitude>
+<Longitude>-97.90706</Longitude>
+<LocationMethod> A3 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>123</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00982 </PlaceID1>
+<PlaceID2>24227</PlaceID2>
+<PlaceName> US POSTAL SERV </PlaceName>
+<Address> 128 E. 1ST </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.05385</Latitude>
+<Longitude>-97.9294</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>124</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01051 </PlaceID1>
+<PlaceID2>26027</PlaceID2>
+<PlaceName> USD 308 </PlaceName>
+<Address> 1500 PLAZA </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/07 </TownshipRangeSection>
+<Latitude>38.06874</Latitude>
+<Longitude>-97.91444</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>125</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01052 </PlaceID1>
+<PlaceID2>29367</PlaceID2>
+<PlaceName> USD 308, HIGH SCHOOL </PlaceName>
+<Address> 1401 N. SEVERANCE </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/07 </TownshipRangeSection>
+<Latitude>38.06832</Latitude>
+<Longitude>-97.91341</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>126</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01045 </PlaceID1>
+<PlaceID2>26026</PlaceID2>
+<PlaceName> USD 308, MAINTENANCE </PlaceName>
+<Address> 609 E. 14TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/07 </TownshipRangeSection>
+<Latitude>38.0682</Latitude>
+<Longitude>-97.9193</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>127</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00238 </PlaceID1>
+<PlaceID2>5886</PlaceID2>
+<PlaceName> USD 313 </PlaceName>
+<Address> 730 N. BUHLER RD </Address>
+<City> BUHLER </City>
+<Zip>67522</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 22S/04W/16 </TownshipRangeSection>
+<Latitude>38.14243</Latitude>
+<Longitude>-97.77544</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>128</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00090 </PlaceID1>
+<PlaceID2>6437</PlaceID2>
+<PlaceName> VICKERS # 2171 </PlaceName>
+<Address> 703 E. 30TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/06 </TownshipRangeSection>
+<Latitude>38.08628</Latitude>
+<Longitude>-97.91688</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>129</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-01372 </PlaceID1>
+<PlaceID2>29422</PlaceID2>
+<PlaceName> WAL-MART # 794 </PlaceName>
+<Address> 1500 E. 11TH </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.06487</Latitude>
+<Longitude>-97.90207</Longitude>
+<LocationMethod> A3 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>130</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870078 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> WELLS AIRCRAFT, HUTCHINSON </PlaceName>
+<Address> HUTCHINSON MUNICIPAL AIRPORT </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination>   </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/10 </TownshipRangeSection>
+<Latitude>38.063</Latitude>
+<Longitude>-97.866</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>131</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-11404 </PlaceID1>
+<PlaceID2>26980</PlaceID2>
+<PlaceName> WEN&apos;S ONE CONVENIENCE </PlaceName>
+<Address> 434 E. 17TH AVE </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/01 </TownshipRangeSection>
+<Latitude>38.0724</Latitude>
+<Longitude>-97.92255</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>132</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207870573 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> WEST BLANCHARD STREET </PlaceName>
+<Address> WEST BLANCHARD STREET </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 0 </ExtentofContamination>
+<EstimatedCleanupCost> 0 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STATE FUNDED (100%) </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/21 </TownshipRangeSection>
+<Latitude>38.029</Latitude>
+<Longitude>-97.992</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>133</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00589 </PlaceID1>
+<PlaceID2>24067</PlaceID2>
+<PlaceName> WEST STAR TRUCK </PlaceName>
+<Address> 2212 S. HWY 50 </Address>
+<City> HUTCHINSON </City>
+<Zip>67505</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/30 </TownshipRangeSection>
+<Latitude>38.02202</Latitude>
+<Longitude>-97.91029</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>134</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-00455 </PlaceID1>
+<PlaceID2>88888</PlaceID2>
+<PlaceName> WINCHESTER PACKING PLANT </PlaceName>
+<Address> 523 S. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.04478</Latitude>
+<Longitude>-97.93214</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>135</Rec>
+<PlaceType> LEAKING PETROLEUM STORAGE TANK </PlaceType>
+<PlaceID1> U2-078-12858 </PlaceID1>
+<PlaceID2>22975</PlaceID2>
+<PlaceName> WITHORN SERVICE CENTER </PlaceName>
+<Address> 2601 N. MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<NatureofContamination> CONFIRMED RELEASE OF REFINED PETROLEUM PRODUCTS FROM ON-SITE STORAGE TANKS. </NatureofContamination>
+<ExtentofContamination> 5 </ExtentofContamination>
+<EstimatedCleanupCost>   </EstimatedCleanupCost>
+<SourcesofCleanupMonies> STORAGE TANKS FUNDS. </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/01 </TownshipRangeSection>
+<Latitude>38.08223</Latitude>
+<Longitude>-97.9323</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</ContaminationSite>
+<ContaminationSite>
+<Rec>136</Rec>
+<PlaceType> CONTAMINATED SITE </PlaceType>
+<PlaceID1> C207800072 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> YODER, VILLAGE OF (YODER VOCS) </PlaceName>
+<Address> HWY 96 10 MI S OF HUTCHINSON </Address>
+<City> YODER </City>
+<Zip>67505</Zip>
+<NatureofContamination> VOLATILE ORGANICS. </NatureofContamination>
+<ExtentofContamination> 25  </ExtentofContamination>
+<EstimatedCleanupCost> $250,000 - $500,000 </EstimatedCleanupCost>
+<SourcesofCleanupMonies> 0 </SourcesofCleanupMonies>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/28 </TownshipRangeSection>
+<Latitude>37.94</Latitude>
+<Longitude>-97.869</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</ContaminationSite>
+</dataroot>

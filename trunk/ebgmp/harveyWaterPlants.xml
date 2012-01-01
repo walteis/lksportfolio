@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-08-09T14:59:56">
+<WaterPlant>
+<Rec>1</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-LA02-OO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> BURRTON MWTP </PlaceName>
+<Address> 203 N. BURRTON </Address>
+<City> BURRTON </City>
+<Zip>67020</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/03W/28 </TownshipRangeSection>
+<Latitude>38.0285</Latitude>
+<Longitude>-97.65653</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>2</Rec>
+<PlaceType> INDUSTRIAL LAGOONS </PlaceType>
+<PlaceID1> I-LA13-NO09 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CONTOUR PRODUCTS </PlaceName>
+<Address> 1418 COW PALACE ROAD </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/25 </TownshipRangeSection>
+<Latitude>38.02413</Latitude>
+<Longitude>-97.38087</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>3</Rec>
+<PlaceType> INDUSTRIAL LAGOONS </PlaceType>
+<PlaceID1> I-LA13-NO03 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> FULL VISION, INC. </PlaceName>
+<Address> 3017 FULL VISION DRIVE </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/25 </TownshipRangeSection>
+<Latitude>38.02545</Latitude>
+<Longitude>-97.38185</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>4</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-LA06-OO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HALSTEAD MWTP </PlaceName>
+<Address> 303 MAIN </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/02W/01 </TownshipRangeSection>
+<Latitude>37.99215</Latitude>
+<Longitude>-97.49445</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>5</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-LA13-NO06 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HARVEY CO. S.D. #1 </PlaceName>
+<Address> HARVEY CO. COURTHOUSE </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/24 </TownshipRangeSection>
+<Latitude>38.02935</Latitude>
+<Longitude>-97.38248</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>6</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-LA13-NO07 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HARVEY CO. S.D. #2 (FARMINGTON ADD.) </PlaceName>
+<Address> HARVEY CO. COURTHOUSE BOX 687 </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/14 </TownshipRangeSection>
+<Latitude>38.13834</Latitude>
+<Longitude>-97.40552</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>7</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-LA07-PO02 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HAY &amp; FORAGE INDUS. </PlaceName>
+<Address> 420 W. LINCOLN </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/09 </TownshipRangeSection>
+<Latitude>38.14942</Latitude>
+<Longitude>-97.44129</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>8</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-LA07-IO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HESSTON MWTP </PlaceName>
+<Address> 115 E. SMITH BOX 100 </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/22 </TownshipRangeSection>
+<Latitude>38.12614</Latitude>
+<Longitude>-97.42064</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>9</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-LA02-PO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> KCC-BURRTON WATER QUALITY PILOTING SITE </PlaceName>
+<Address> 130 S. MARKET, ROOM 2078 </Address>
+<City> BURRTON </City>
+<Zip>67020</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/03W/29 </TownshipRangeSection>
+<Latitude>38.0239</Latitude>
+<Longitude>-97.6693</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>10</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-LA13-IO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> NEWTON MWTP </PlaceName>
+<Address> 120 EAST 7TH </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/19 </TownshipRangeSection>
+<Latitude>38.0349</Latitude>
+<Longitude>-97.35915</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>11</Rec>
+<PlaceType> INDUSTRIAL LAGOONS </PlaceType>
+<PlaceID1> I-LA13-NO05 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PRESTRESSED CONCRETE, INC. </PlaceName>
+<Address> P.O. BOX 311 </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/06 </TownshipRangeSection>
+<Latitude>38.0751</Latitude>
+<Longitude>-97.35732</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+<WaterPlant>
+<Rec>12</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-LA15-OO02 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> SEDGWICK </PlaceName>
+<Address> 511 N. COMMERCIAL, P.O. BOX 131 </Address>
+<City> SEDGWICK </City>
+<Zip>67135</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/01W/27 </TownshipRangeSection>
+<Latitude>37.92703</Latitude>
+<Longitude>-97.42264</Longitude>
+<LocationMethodCode> G2 </LocationMethodCode>
+</WaterPlant>
+</dataroot>

@@ -1,0 +1,69 @@
+.uppercase {text-transform: uppercase}
+.lowercase {text-transform: lowercase}
+.capitalize {text-transform: capitalize}
+p:first-letter {text-transform: capitalize}
+v\:* {
+      behavior:url(#default#VML);
+    }
+    
+h4 {padding-bottom: 3px;
+    margin-bottom: 0px;
+    margin-top:2px;
+    }    
+
+
+#menu ul
+{
+float:left;
+width:100%;
+padding:0;
+margin:0;
+list-style-type:none;
+}
+
+#mapkey ul
+{
+float:left;
+width:14em;
+padding:0;
+margin:0;
+border: 1px solid black;
+list-style-type:none;
+}
+
+#menu li
+{
+width:14em;
+padding:2px;
+border:1px solid black;
+display: block;
+background-color: transparent;
+cursor: pointer;
+margin: 0px;
+}
+
+#mapkey li
+{
+width:14em;
+padding:2px;
+display: block;
+background-color: transparent;
+margin: 1px;
+cursor: pointer;
+}
+
+#content div
+{
+float: left;
+display: block;
+width: 38em;
+padding: 4px;
+background-color: white;
+border: solid 1px;
+position: absolute;
+left: 50px;
+top: 75px;
+
+}
+
+
