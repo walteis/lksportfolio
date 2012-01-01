@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-08-09T14:59:35">
+<WasteFacility>
+<Rec>1</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> ANDALE CITY DUMP </PlaceName>
+<Address>   </Address>
+<City> SEDGWICK </City>
+<Zip>67135</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/03W/09 </TownshipRangeSection>
+<Latitude>37.9765</Latitude>
+<Longitude>-97.66332</Longitude>
+<LocationMethodCode> G3 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>2</Rec>
+<PlaceType> SOLID WASTE PROCESSING </PlaceType>
+<PlaceID1>346</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> BURLINGTON NORTHERN SANTA FE RR </PlaceName>
+<Address>   </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01E/19 </TownshipRangeSection>
+<Latitude>38.03551</Latitude>
+<Longitude>-97.36307</Longitude>
+<LocationMethodCode> G0 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>3</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> BURRTON CITY DUMP </PlaceName>
+<Address>   </Address>
+<City> BURRTON </City>
+<Zip>67020</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/03W/29 </TownshipRangeSection>
+<Latitude>38.0157</Latitude>
+<Longitude>-97.66575</Longitude>
+<LocationMethodCode> G3 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>4</Rec>
+<PlaceType> COMPOSTING </PlaceType>
+<PlaceID1>786</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CITY OF HALSTEAD </PlaceName>
+<Address>   </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/02W/01 </TownshipRangeSection>
+<Latitude>37.9873</Latitude>
+<Longitude>-97.4854</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>5</Rec>
+<PlaceType> CONSTRUCTION AND DEMOLITION LANDFILL </PlaceType>
+<PlaceID1>431</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CITY OF MOUNDRIDGE </PlaceName>
+<Address>   </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/02W/03 </TownshipRangeSection>
+<Latitude>38.1618</Latitude>
+<Longitude>-97.5197</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>6</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HALSTEAD CITY DUMP #1 </PlaceName>
+<Address>   </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/02W/35 </TownshipRangeSection>
+<Latitude>38.0098</Latitude>
+<Longitude>-97.50863</Longitude>
+<LocationMethodCode> G3 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>7</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HALSTEAD CITY DUMP #2 </PlaceName>
+<Address>   </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/02W/35 </TownshipRangeSection>
+<Latitude>38.0079</Latitude>
+<Longitude>-97.50555</Longitude>
+<LocationMethodCode> G3 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>8</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HALSTEAD CITY DUMP #3 </PlaceName>
+<Address>   </Address>
+<City> HALSTEAD </City>
+<Zip>67056</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/02W/01 </TownshipRangeSection>
+<Latitude>37.992</Latitude>
+<Longitude>-97.49348</Longitude>
+<LocationMethodCode> G3 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>9</Rec>
+<PlaceType> CONSTRUCTION AND DEMOLITION LANDFILL / MUNICIPAL LANDFILL </PlaceType>
+<PlaceID1>119</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HARVEY COUNTY </PlaceName>
+<Address>   </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/26 </TownshipRangeSection>
+<Latitude>38.0198</Latitude>
+<Longitude>-97.3914</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>10</Rec>
+<PlaceType> CONSTRUCTION AND DEMOLITION LANDFILL </PlaceType>
+<PlaceID1>639</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HARVEY COUNTY </PlaceName>
+<Address>   </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/35 </TownshipRangeSection>
+<Latitude>38.0059</Latitude>
+<Longitude>-97.3914</Longitude>
+<LocationMethodCode> I4 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>11</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HARVEY COUNTY LANDFILL </PlaceName>
+<Address>   </Address>
+<City> NEWTON </City>
+<Zip>67114</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 23S/01W/25 </TownshipRangeSection>
+<Latitude>38.0139</Latitude>
+<Longitude>-97.39021</Longitude>
+<LocationMethodCode> G3 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>12</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HESSTON CITY DUMP </PlaceName>
+<Address>   </Address>
+<City> HESSTON </City>
+<Zip>67062</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 22S/01W/11 </TownshipRangeSection>
+<Latitude>38.1519</Latitude>
+<Longitude>-97.4086</Longitude>
+<LocationMethodCode> G3 </LocationMethodCode>
+</WasteFacility>
+<WasteFacility>
+<Rec>13</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> SEDGWICK CITY </PlaceName>
+<Address>   </Address>
+<City> SEDGWICK </City>
+<Zip>67135</Zip>
+<County> HARVEY </County>
+<TownshipRangeSection> 24S/01W/33 </TownshipRangeSection>
+<Latitude>37.9209</Latitude>
+<Longitude>-97.42939</Longitude>
+<LocationMethodCode> G3 </LocationMethodCode>
+</WasteFacility>
+</dataroot>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-07-27T12:29:25">
+   <ContSite>        &lt;h4&gt;Contaminated Sites&lt;/h4&gt; Identified contaminated sites are locations where 
+        releases of hazardous and non-hazardous materials have occurred in sufficient 
+        quantities to cause soil and/or groundwater contamination. Most of these sites 
+        will require some type of cleanup combined with periodic monitoring to mitigate 
+        unacceptable risks posed by the contamination. They are regulated by the Kansas 
+        Department of Health and Environment's Bureau of Environmental Remediation.&lt;br&gt;&lt;br&gt;
+   </ContSite>
+   <ContArea>
+        &lt;h4&gt;Contaminated Areas&lt;/h4&gt; Estimated area of contamination for known contamintated sites.&lt;br&gt;&lt;br&gt;
+   </ContArea>
+   <WaterTreatment>
+        &lt;h4&gt;Water Treatment Facilities&lt;/h4&gt; These facilities fall into 3 broad groups: Municipal Treatment
+        (either plants or lagoons), Industrial Treatment (either plants or lagoons), or Brine Facilities e.g. hydrocarbon storage facilities (surface storage of water used to create a cavity underground through injection for storage of petroleum products) and salt solution mining operations (where water is injected into the salt formation and the brine is removed and evaporated to collect salt).&lt;br&gt;&lt;br&gt;
+   </WaterTreatment>
+   <SolidWaste>
+        &lt;h4&gt;Solid Waste Facilities&lt;/h4&gt; These include landfills (municipal, closed, 
+        industrial, construction and demolition), solid waste transfer stations, solid 
+        waste processing facilities, composting facilities, and household hazardous 
+        waste collection facilities. Landfills, especially older facilities without liners, are a potential source of groundwater contamination when rainfall percolates through the waste and slowly carries pollutants to the groundwater.  Newer landfills are required to have liner systems to protect groundwater. These facilities must receive a permit from the Bureau of Waste Management within KDHE.
+        
+        &lt;p&gt;  
+        &lt;b&gt;Municipal solid waste landfills&lt;/b&gt; can receive many types of solid waste like household refuse, industrial waste, and construction and demolition debris, but they cannot not receive hazardous waste.  
+        &lt;/p&gt;
+
+        &lt;p&gt;  
+        &lt;b&gt;Industrial landfills&lt;/b&gt; receive non-hazardous waste from industries such as cement kilns, coal-fired power plants, and foundries. They typically only receive one type of waste.
+        &lt;/p&gt;
+
+        &lt;p&gt;  
+          &lt;b&gt;Construction and demolition landfills&lt;/b&gt; are sites where debris resulting from the construction and/or demolition of roads, bridges, homes and other buildings are disposed. This debris is usually items such as concrete, wood, shingles and other building materials. Contamination potential from these landfills is fairly low since they are not allowed to receive hazardous, industrial, or household waste. 
+        &lt;/p&gt;
+
+        &lt;p&gt;  
+        &lt;b&gt;Solid waste transfer stations&lt;/b&gt; are sites where nearly all types of solid waste (except hazardous waste) is delivered from collection vehicles and temporarily stored until a trailer load is shipped to a municipal solid waste landfill. Since waste is only stored temporarily, there is a low potential for contamination.
+        &lt;/p&gt;
+
+
+
+        
+   </SolidWaste>
+   <Wells>
+        &lt;h4&gt;Public Water Wells&lt;/h4&gt; Wells that provide water for municipal water systems.&lt;br&gt;&lt;br&gt;
+   </Wells>
+</dataroot>

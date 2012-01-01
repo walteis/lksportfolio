@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-08-09T12:29:03">
+<WasteFacility>
+<Rec>1</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> BUHLER CITY DUMP #1 </PlaceName>
+<Address>   </Address>
+<City> BUHLER </City>
+<Zip>67522</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/04W/31 </TownshipRangeSection>
+<Latitude>38.0938</Latitude>
+<Longitude>-97.79383</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>2</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> BUHLER CITY DUMP #2 </PlaceName>
+<Address>   </Address>
+<City> BUHLER </City>
+<Zip>67522</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/04W/20 </TownshipRangeSection>
+<Latitude>38.1157</Latitude>
+<Longitude>-97.77599</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>3</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>380</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CARGILL SALT </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/19 </TownshipRangeSection>
+<Latitude>38.033</Latitude>
+<Longitude>-97.9065</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>4</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CESSNA DUMP </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/16 </TownshipRangeSection>
+<Latitude>38.0507</Latitude>
+<Longitude>-97.86691</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>5</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CITY OF HUTCHINSON </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/24 </TownshipRangeSection>
+<Latitude>38.04</Latitude>
+<Longitude>-97.93</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>6</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CITY OF SOUTH HUTCHINSON </PlaceName>
+<Address>   </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/25 </TownshipRangeSection>
+<Latitude>38.0241</Latitude>
+<Longitude>-97.92712</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>7</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> COLLINGWOOD GRAIN CO </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.06</Latitude>
+<Longitude>-97.89</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>8</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>258</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> FAR-MAR CO. </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/09 </TownshipRangeSection>
+<Latitude>38.0601</Latitude>
+<Longitude>-97.8827</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>9</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HAVEN CITY DUMP </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 24S/04W/20 </TownshipRangeSection>
+<Latitude>37.9491</Latitude>
+<Longitude>-97.77546</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>10</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON CITY DUMP # 1 </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/13 </TownshipRangeSection>
+<Latitude>38.0469</Latitude>
+<Longitude>-97.92232</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>11</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON CITY DUMP # 2 </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/10 </TownshipRangeSection>
+<Latitude>38.07</Latitude>
+<Longitude>-97.84869</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>12</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON CITY DUMP # 3 </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/06W/25 </TownshipRangeSection>
+<Latitude>38.1017</Latitude>
+<Longitude>-97.94074</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>13</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON CITY DUMP # 4 </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/16 </TownshipRangeSection>
+<Latitude>38.0457</Latitude>
+<Longitude>-97.99522</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>14</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON CITY DUMP # 5 </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/17 </TownshipRangeSection>
+<Latitude>38.0558</Latitude>
+<Longitude>-97.8887</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>15</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON CITY DUMP # 6 </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/05 </TownshipRangeSection>
+<Latitude>38.0733</Latitude>
+<Longitude>-97.88563</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>16</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON CITY DUMP # 7 </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/07 </TownshipRangeSection>
+<Latitude>38.0653</Latitude>
+<Longitude>-97.90538</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>17</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>267</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> MARTINDELL, WEEMS &amp; ASSOC. </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/09 </TownshipRangeSection>
+<Latitude>38.0601</Latitude>
+<Longitude>-97.8826</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>18</Rec>
+<PlaceType> INDUSTRIAL LANDFILL </PlaceType>
+<PlaceID1>332</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> MORTON SALT </PlaceName>
+<Address>   </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/23 </TownshipRangeSection>
+<Latitude>38.0346</Latitude>
+<Longitude>-97.9506</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>19</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> NICKERSON CITY DUMP </PlaceName>
+<Address>   </Address>
+<City> NICKERSON </City>
+<Zip>67561</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/07W/17 </TownshipRangeSection>
+<Latitude>38.1445</Latitude>
+<Longitude>-98.10822</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>20</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>295</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PACKAGING CORP. </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/09 </TownshipRangeSection>
+<Latitude>38.0601</Latitude>
+<Longitude>-97.8826</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>21</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PARTRIDGE CITY DUMP </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 24S/07W/10 </TownshipRangeSection>
+<Latitude>37.9702</Latitude>
+<Longitude>-98.08031</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>22</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PRETTY PRAIRIE CITY DUMP #1 </PlaceName>
+<Address>   </Address>
+<City> PRETTY PRAIRIE </City>
+<Zip>67570</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 26S/06W/18 </TownshipRangeSection>
+<Latitude>37.7838</Latitude>
+<Longitude>-98.0201</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>23</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PRETTY PRAIRIE CITY DUMP #2 </PlaceName>
+<Address>   </Address>
+<City> PRETTY PRAIRIE </City>
+<Zip>67570</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 26S/06W/19 </TownshipRangeSection>
+<Latitude>37.7729</Latitude>
+<Longitude>-98.0231</Longitude>
+<LocationMethod> G3 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>24</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>135</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO COUNTY </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/16 </TownshipRangeSection>
+<Latitude>38.0474</Latitude>
+<Longitude>-97.9871</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>25</Rec>
+<PlaceType> MUNICIPAL LANDFILL / COMPOSTING </PlaceType>
+<PlaceID1>723</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO COUNTY </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/20 </TownshipRangeSection>
+<Latitude>38.035</Latitude>
+<Longitude>-97.9967</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>26</Rec>
+<PlaceType> CONSTRUCTION AND DEMOLITION LANDFILL </PlaceType>
+<PlaceID1>287</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO COUNTY </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/16 </TownshipRangeSection>
+<Latitude>38.0474</Latitude>
+<Longitude>-97.9873</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>27</Rec>
+<PlaceType> HOUSEHOLD HAZARDOUS WASTE </PlaceType>
+<PlaceID1>607</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO CTY HHW </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/17 </TownshipRangeSection>
+<Latitude>38.0476</Latitude>
+<Longitude>-97.9989</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>28</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>461</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> REPUBLIC PAPERBOARD CO. </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/09 </TownshipRangeSection>
+<Latitude>38.0601</Latitude>
+<Longitude>-97.8826</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>29</Rec>
+<PlaceType> CLOSED LANDFILL </PlaceType>
+<PlaceID1>271</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> ROBERT L. MILLER </PlaceName>
+<Address>   </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/19 </TownshipRangeSection>
+<Latitude>38.0328</Latitude>
+<Longitude>-97.9061</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+<WasteFacility>
+<Rec>30</Rec>
+<PlaceType> SOLID WASTE PROCESSING </PlaceType>
+<PlaceID1>722</PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> STUTZMAN REFUSE DISPOSAL </PlaceName>
+<Address>   </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/25 </TownshipRangeSection>
+<Latitude>38.0279</Latitude>
+<Longitude>-97.9397</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WasteFacility>
+</dataroot>

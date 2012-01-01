@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <title>Contaminated Sites in McPherson County, KS</title>
+
+
+
+
+ <style type="text/css">
+.uppercase {text-transform: uppercase}
+.lowercase {text-transform: lowercase}
+.capitalize {text-transform: capitalize}
+p:first-letter {text-transform: capitalize}
+v\:* {
+      behavior:url(#default#VML);
+    }
+
+
+ul
+{
+float:left;
+width:100%;
+padding:0;
+margin:0;
+list-style-type:none;
+}
+li
+{
+width:20em;
+padding:2px;
+border:1px solid black;
+display: block;
+background-color: transparent;
+cursor: pointer;
+margin: 1px;
+
+}
+
+
+
+
+</style>
+
+   <script src="http://maps.google.com/maps?file=api&v=1&key=ABQIAAAAFcriaLmRhsjRuq7sfvPBxBQOE1ISoeNDGAcR-wkkvfB0_QLVcBRCB1k_j5WGl6tMS79rQUnA-ZXO2A" type="text/javascript"></script>
+   <script src="http://lordkingsquirrel.com/ebgmp/xmaps.1.js" type="text/javascript"></script>
+        <script type="text/javascript">    //<![CDATA[    var clickCount = 0;    var shapeNames = ['default', 'rounded-box', 'left-top-box', 'right-top-box', 'circle'];    function onLoad() {      // Text Marker      //      // Center the map on Seattle    var map = new GMap(document.getElementById("map"));
+    map.addControl(new GLargeMapControl());      
+    map.addControl(new GMapTypeControl());
+    var point = new GPoint(-97.652934, 38.383326);
+    map.centerAndZoom(point,7);
+      // Add 4 markers.      var bounds = map.getBoundsLatLng();      var width = bounds.maxX - bounds.minX;      var height = bounds.maxY - bounds.minY;      var markers = [];      for (var i = 0; i < 4; i++) {        var point = new GPoint(bounds.minX + width * Math.random(),	                           bounds.minY + height * Math.random());        var icon = new XIcon('rounded-box', { fillColor: nextColor(), fillOpacity: 0.8, outlineWeight: 2 });        var num = ++clickCount + '';	    var marker = new XMarker(point, icon, num, "sample mouseover", "You just made " + num + " disappear!");	    markers.push(marker);      }      map.addOverlays(markers);      GEvent.addListener(map, 'click', function(overlay, point) {        if (overlay) {          map.removeOverlay(overlay);        } else if (point) {          var shapeName = shapeNames[Math.floor(Math.random() * shapeNames.length)];          var icon = new XIcon(shapeName, { scale: 0.5 + Math.random() * 1.5, fillColor: nextColor(), fillOpacity: 0.8, outlineWeight: 2 });	      var marker = new XMarker(point, icon, ++clickCount + '');          map.addOverlay(marker);        }      });    }    var colors = [null, '#68bf4c', '#4a8cc1', '#b449c2'];    var colorIndex = 0;    function nextColor() {        if (colorIndex >= colors.length) {            var r = (Math.round(Math.random() * 255)).toHexStr().substring(6);            var g = (Math.round(Math.random() * 255)).toHexStr().substring(6);            var b = (Math.round(Math.random() * 255)).toHexStr().substring(6);            return '#' + r + g + b;        } else {            return colors[colorIndex++];        }    }    //]]>    </script>
+
+
+    
+  </head>
+  <body style="font-family: sans-serif; font-size: 10pt" onload="onLoad()">
+    
+    <div style="width:580px;position:absolute; left: 2px; top: 2px;  padding:2px;">
+    <a href="./index.html">The Equus Beds Google Map Project</a> - McPherson County, Kansas
+    </div>
+    <div id="map" style="border-style:solid; border-width:1px; width: 584px; height: 550px; position:absolute; left: 2px; top: 22px;"></div>
+
+    <!-- Menu -->
+    <div title="Control Panel" style="background-color: transparent; width:168px;  position:absolute; left: 587px; top: 2px; padding: 3px;">Layer Menu
+    
+	    <!-- Menu buttons   -->
+	    <ul>
+    		<li id="water" onclick="WToggleLayer(waterlayer)">Water Treatment Facilities</li>
+    		<li id="waste" onclick="WToggleLayer(wastelayer)">Solid Waste Facilities</li>
+    		<li id="cont" onclick="WToggleLayer(contlayer)">Contaminated Sites</li>
+    		<li id="area" onclick="WToggleAreaLayer(arealayer)">Contaminated Areas</li>
+    		<li id="clear" onclick="removeLayers()">Clear Map</li>
+    	    </ul>
+
+    </div>
+
+
+    <!-- map key   -->  
+    <div title="Key" style="background-color: transparent; width:168px;  position:absolute; left: 591px; top: 160px; border-style: solid; padding: 2px; border-width:1px;">Key</div>
+    <div style="position:absolute; left: 591px; top: 184px; border-style: solid; border-width: 1px; background-color: #0000ff; width: 30px; height: 10px;">&nbsp;</div>
+    <div style="position:absolute; left: 624px; top: 184px;">County Boundary</div>  
+    <div style="position:absolute; left: 591px; top: 203px; border-style: solid; border-width: 1px; background-color: #ff6347; width: 30px; height: 10px;">&nbsp;</div>
+    <div style="position:absolute; left: 624px; top: 203px;">Contaminated Area</div>
+    
+    <div style="position:absolute; left: 650px; top: 400px;"><img src="./images/mac_map.gif"></div>
+    <div style="position:absolute; left: 650px; top: 510px;">County shown shaded in light grey</div>  
+
+      
+       
+  </body>
+
+</html>

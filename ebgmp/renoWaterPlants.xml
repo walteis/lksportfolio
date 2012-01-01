@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2005-08-09T12:48:32">
+<WaterPlant>
+<Rec>1</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR94-PO83 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> BROOKS LANDFILL GROUNDWATER REMED </PlaceName>
+<Address> CITY HALL 8TH FLOOR 455 N. MAIN </Address>
+<City> WICHITA </City>
+<Zip>67570</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 26S/06W/25 </TownshipRangeSection>
+<Latitude>37.7617</Latitude>
+<Longitude>-97.93166</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>2</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-LA01-OO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> BUHLER WWTP </PlaceName>
+<Address> 219 N. MAIN, P.O. BOX 187 </Address>
+<City> BUHLER </City>
+<Zip>67522</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/04W/21 </TownshipRangeSection>
+<Latitude>38.12681</Latitude>
+<Longitude>-97.77118</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>3</Rec>
+<PlaceType> BRINE FACILITIES </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CARGILL </PlaceName>
+<Address> 609 EAST AVENUE G </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/19 </TownshipRangeSection>
+<Latitude>38.04286</Latitude>
+<Longitude>-97.92045</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>4</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR49-PO08 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CARGILL SALT </PlaceName>
+<Address> BOX 1403 </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/19 </TownshipRangeSection>
+<Latitude>38.04154</Latitude>
+<Longitude>-97.91876</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>5</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR49-PO09 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> CESSNA AIRCRAFT - EATON SITE </PlaceName>
+<Address> 3401 EAST 4TH AVENUE </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/16 </TownshipRangeSection>
+<Latitude>38.05736</Latitude>
+<Longitude>-97.87021</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>6</Rec>
+<PlaceType> BRINE FACILITIES </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> FERRELL GAS </PlaceName>
+<Address> 2610 S. MOHAWK RD. </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/29 </TownshipRangeSection>
+<Latitude>38.02457</Latitude>
+<Longitude>-97.99553</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>7</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-AR49-OO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> FUN VALLEY </PlaceName>
+<Address> BOX 1567 </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/08 </TownshipRangeSection>
+<Latitude>38.05737</Latitude>
+<Longitude>-97.99595</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>8</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-AR41-OO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HAVEN MWTP </PlaceName>
+<Address> 118 S. KANSAS BOX 356 </Address>
+<City> HAVEN </City>
+<Zip>67543</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 25S/04W/04 </TownshipRangeSection>
+<Latitude>37.90086</Latitude>
+<Longitude>-97.77012</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>9</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-AR49-IO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> HUTCHINSON MWTP </PlaceName>
+<Address> P.O. BOX 1567 ROUTE #4 </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/33 </TownshipRangeSection>
+<Latitude>38.00843</Latitude>
+<Longitude>-97.88486</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>10</Rec>
+<PlaceType> BRINE FACILITIES </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> IMC </PlaceName>
+<Address> 1800 CAREY BLVD. </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/17 </TownshipRangeSection>
+<Latitude>38.04884</Latitude>
+<Longitude>-97.89852</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>11</Rec>
+<PlaceType> BRINE FACILITIES </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> KANSAS GAS SERVICE </PlaceName>
+<Address> 4817 N. DEAN RD. </Address>
+<City> NICKERSON </City>
+<Zip>67561</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/07W/25 </TownshipRangeSection>
+<Latitude>38.10619</Latitude>
+<Longitude>-98.03207</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>12</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR49-PO22 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> KDHE/BER (INEEDA DRY CLEANERS) </PlaceName>
+<Address> FORBES FIELD, BUILDING 740 </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.06712</Latitude>
+<Longitude>-97.93166</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>13</Rec>
+<PlaceType> BRINE FACILITIES </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> KOCH </PlaceName>
+<Address> 1910 S. BROADACRES RD. </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/21 </TownshipRangeSection>
+<Latitude>38.0282</Latitude>
+<Longitude>-97.97713</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>14</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR49-CO10 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> KRAUSE PLOW CORPORATION, INC. </PlaceName>
+<Address> P.O. BOX 2707 </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/14 </TownshipRangeSection>
+<Latitude>38.04795</Latitude>
+<Longitude>-97.9417</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>15</Rec>
+<PlaceType> INDUSTRIAL LAGOONS </PlaceType>
+<PlaceID1> I-AR49-NP04 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> MAST CUSTOM PROCESSING PLANT </PlaceName>
+<Address> 5209 SOUTH MOHAWK ROAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 24S/06W/05 </TownshipRangeSection>
+<Latitude>37.99248</Latitude>
+<Longitude>-97.9957</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>16</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR49-CO18 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> MEDICAL CENTER, P.A. </PlaceName>
+<Address> 1100 NORTH MAIN </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.06542</Latitude>
+<Longitude>-97.93103</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>17</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR82-PO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> MORTON SALT </PlaceName>
+<Address> BOX 1547 </Address>
+<City> HUTCHINSON </City>
+<Zip>67505</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/23 </TownshipRangeSection>
+<Latitude>38.04037</Latitude>
+<Longitude>-97.95175</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>18</Rec>
+<PlaceType> BRINE FACILITIES </PlaceType>
+<PlaceID1>   </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> MORTON, INTL. </PlaceName>
+<Address> 1000 MORTON DRIVE </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/23 </TownshipRangeSection>
+<Latitude>38.04034</Latitude>
+<Longitude>-97.9505</Longitude>
+<LocationMethod> G0 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>19</Rec>
+<PlaceType> INDUSTRIAL LAGOONS </PlaceType>
+<PlaceID1> I-AR82-NP01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> NATIONAL BY-PRODUCTS, INC. </PlaceName>
+<Address> P.O. BOX 1666 </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/22 </TownshipRangeSection>
+<Latitude>38.03912</Latitude>
+<Longitude>-97.96739</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>20</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-AR66-OO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> NICKERSON WWTP </PlaceName>
+<Address> P.O. BOX 52 </Address>
+<City> NICKERSON </City>
+<Zip>67561</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/07W/22 </TownshipRangeSection>
+<Latitude>38.13007</Latitude>
+<Longitude>-98.07992</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>21</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-AR70-NO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PARTRIDGE MWTP </PlaceName>
+<Address> P.O. BOX 174 </Address>
+<City> PARTRIDGE </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 24S/07W/15 </TownshipRangeSection>
+<Latitude>37.96754</Latitude>
+<Longitude>-98.08527</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>22</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-AR75-OO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> PRETTY PRAIRIE MWTP </PlaceName>
+<Address> CITY HALL- P.O. BOX 68 </Address>
+<City> PRETTY PRAIRIE </City>
+<Zip>67570</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 26S/06W/19 </TownshipRangeSection>
+<Latitude>37.77363</Latitude>
+<Longitude>-98.0232</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>23</Rec>
+<PlaceType> INDUSTRIAL LAGOONS </PlaceType>
+<PlaceID1> I-AR98-PO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO CO. S.D. #202 </PlaceName>
+<Address> 206 W. 1ST ST. </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/29 </TownshipRangeSection>
+<Latitude>37.93289</Latitude>
+<Longitude>-97.88782</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>24</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-AR49-OO06 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO CO. S.D. #202 </PlaceName>
+<Address> 206 W. 1ST ST. </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/29 </TownshipRangeSection>
+<Latitude>37.93289</Latitude>
+<Longitude>-97.88782</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>25</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-AR49-NO05 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO CO. S.D. #8 </PlaceName>
+<Address> 206 WEST FIRST </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/06W/02 </TownshipRangeSection>
+<Latitude>38.16437</Latitude>
+<Longitude>-97.94498</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>26</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-AR49-ND03 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO COUNTY COMBINED S.D. #3 AND #10 </PlaceName>
+<Address> RENO COUNTY COMMISSIONERS </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/06W/13 </TownshipRangeSection>
+<Latitude>38.12971</Latitude>
+<Longitude>-97.93656</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>27</Rec>
+<PlaceType> MUNICIPAL LAGOONS </PlaceType>
+<PlaceID1> M-AR49-NO07 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RENO COUNTY S.D. NO. 201 </PlaceName>
+<Address> RENO CO. COURTHOUSE, 206 W. 1ST </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 24S/05W/28 </TownshipRangeSection>
+<Latitude>37.93382</Latitude>
+<Longitude>-97.86679</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>28</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR49-CO04 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> REPUBLIC PAPERBOARD COMPANY </PlaceName>
+<Address> P.O. BOX 1267 </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/16 </TownshipRangeSection>
+<Latitude>38.05216</Latitude>
+<Longitude>-97.88529</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>29</Rec>
+<PlaceType> INDUSTRIAL LAGOONS </PlaceType>
+<PlaceID1> I-AR49-NP03 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> RITCHIE CONSTRUCTION LAGOON NO. 1 </PlaceName>
+<Address> P.O. BOX 4048 </Address>
+<City> WICHITA </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/08 </TownshipRangeSection>
+<Latitude>38.06629</Latitude>
+<Longitude>-97.88726</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>30</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-AR82-OO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> SOUTH HUTCHINSON MWTP </PlaceName>
+<Address> 2 S. MAIN </Address>
+<City> SOUTH HUTCHINSON </City>
+<Zip>67505</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/25 </TownshipRangeSection>
+<Latitude>38.02324</Latitude>
+<Longitude>-97.9271</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>31</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR49-CO19 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> TRINITY UNITED METHODIST CHURCH </PlaceName>
+<Address> 1602 NORTH MAIN STREET </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/06W/12 </TownshipRangeSection>
+<Latitude>38.07135</Latitude>
+<Longitude>-97.93106</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>32</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR49-CO11 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> TSW PRODUCTS COMPANY, INC. </PlaceName>
+<Address> 715 COREY ROAD </Address>
+<City> HUTCHINSON </City>
+<Zip>67501</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 23S/05W/09 </TownshipRangeSection>
+<Latitude>38.05984</Latitude>
+<Longitude>-97.87433</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>33</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-AR49-CO17 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> WESLEY TOWERS </PlaceName>
+<Address> 700 MONTEREY PLACE </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/06W/35 </TownshipRangeSection>
+<Latitude>38.09354</Latitude>
+<Longitude>-97.94391</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>34</Rec>
+<PlaceType> INDUSTRIAL TREATMENT </PlaceType>
+<PlaceID1> I-LA22-PO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> WESTERN RESOURCES - HUTCHINSON STA. </PlaceName>
+<Address> 818 KANSAS AVENUE </Address>
+<City> HUTCHINSON </City>
+<Zip>67502</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/05W/33 </TownshipRangeSection>
+<Latitude>38.08664</Latitude>
+<Longitude>-97.87659</Longitude>
+<LocationMethod> I4 </LocationMethod>
+</WaterPlant>
+<WaterPlant>
+<Rec>35</Rec>
+<PlaceType> MUNICIPAL TREATMENT </PlaceType>
+<PlaceID1> M-AR95-OO01 </PlaceID1>
+<PlaceID2>   </PlaceID2>
+<PlaceName> WILLOWBROOK, CITY OF </PlaceName>
+<Address> BOX 1067 </Address>
+<City> WILLOWBROOK </City>
+<Zip>67502</Zip>
+<County> RENO </County>
+<TownshipRangeSection> 22S/06W/33 </TownshipRangeSection>
+<Latitude>38.09662</Latitude>
+<Longitude>-97.99089</Longitude>
+<LocationMethod> G2 </LocationMethod>
+</WaterPlant>
+</dataroot>

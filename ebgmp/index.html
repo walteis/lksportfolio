@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Equus Beds Google Map Project</title>
+        <style type="text/css">
+
+#nav-menu ul
+{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+#nav-menu li
+{
+float: left;
+margin: 0 0;
+padding: 0;
+text-align: center
+}
+
+#nav-menu li a
+{
+float: left;
+width: 6em;
+display: block;
+border: 1px solid;
+text-decoration: none;
+cursor: pointer;
+}
+
+/* Commented backslash hack hides rule from IE5-Mac \*/
+#nav-menu li a
+{
+float: none
+}
+/* End IE5-Mac hack */
+
+#nav-menu
+{
+width:50em
+}
+
+
+#content div
+{
+float: left;
+display: block;
+border: 1px solid;
+width: 30em
+}
+
+
+
+</style>
+        <script type="text/javascript">
+
+   
+function Show(elementname) {
+
+    var tags = document.getElementsByTagName('div');
+    
+    for (key=0;key<tags.length;key++) {
+        if (tags[key].id.substring(0,4) == 'menu') {
+          if (tags[key].id.indexOf("button") < 0) {
+              if (tags[key].id == elementname) {
+                    document.getElementById(tags[key].id).style.display = 'block';
+                     var buttonname = tags[key].id + 'button';
+                     
+                     document.getElementById(buttonname).style.backgroundColor = "#D3D3D3";
+              }
+              else {
+                    document.getElementById(tags[key].id).style.display = 'none';     
+                    document.getElementById(tags[key].id + 'button').style.backgroundColor = 'transparent';
+               }
+            }   
+         }    
+    }
+
+}     
+        
+        
+        </script>
+    </head>
+    <body style="FONT-SIZE: 10pt; FONT-FAMILY: sans-serif">
+
+        <!-- left side  -->
+
+            <div title="Project Splash" style="BORDER-RIGHT: 2px solid; BORDER-TOP: 2px solid; FLOAT: left; BORDER-LEFT: 2px solid; BORDER-BOTTOM: 2px solid"><img src="http://lordkingsquirrel.com/ebgmp/images/eb.jpg">
+            </div>
+
+
+
+        <!-- right side  -->
+        <div style="position:absolute; left:320px; width: 40%">
+             <div id="nav-menu">
+                <ul>
+                    <li>
+                        <a id="menuhomebutton" style="background-color: #D3D3D3" onclick="Show('menuhome')">Home</a>
+                    </li>
+                    <li>
+                        <a id="menumapsbutton" onclick="Show('menumaps')">Maps</a>
+                    </li>
+                    <li>
+                        <a id="menuaboutbutton" onclick="Show('menuabout')">About</a>
+                    </li>
+                </ul>
+            </div>
+           
+         <!-- text content  -->
+         
+          <div id="content">
+             <div id="menuhome">
+                <p>The Equus Beds is an aquifer situated in the south central portion of Kansas, 
+                    laying under the counties of Harvey, Marion, <A href="http://lordkingsquirrel.com/ebgmp/mac_county.html">McPherson</A>, Rice, <A href="http://lordkingsquirrel.com/ebgmp/reno_county.html">Reno</a>, and Sedgwick.
+                <p><IMG src="./images/map.gif">
+                <p>It is the eastern-most part of the high plains aquifer system. It has excellent 
+                    quality water located at relatively shallow depths with good saturation depth 
+                    (ranging from 50 to 250 feet). It is an important source of water for 
+                    irrigation, industry, and municipal and private drinking water systems. The 
+                    cities of Hutchinson, McPherson, Newton, and Wichita all obtain drinking water 
+                    from the equus beds.</p>
+                <p>The items shown in this site fall into several categories, including sites with 
+                    confirmed groundwater or soil contamination and potential contamination sources 
+                    like solid waste facilities, water treatment plants, and feedlots.</p>
+            </div>
+
+  
+            <div id="menuabout" style="display:none;">
+                <p>The Equus Beds Google Map Project is Copyright © 2005 by Walt Eis. Mapping 
+                    software is the Google Maps API, <a href="http://xmaps.busmonster.com">XMaps</a>, 
+                    and custom programming by the author.</p>
+                <p>Initial data from the <a href="http://www.equusinfo.org">Equus Information Resource</a>
+                    site, reformatted into XML and corrected when needed.</p>
+                <p>County boundary data from <a href="http://www.census.gov/geo/www/tiger/">U.S. Census Bureau Tiger/Line files</a></p>
+                <p>Well data from Kansas Geological Survey</p>
+                <p>Kansas Map with Equus Beds outline is from the Equus Information Resource site.</p>
+            </div>
+
+            <div id="menumaps" style="display:none;">
+                <p>
+                <A href="http://lordkingsquirrel.com/ebgmp/harvey_county.html">Harvey County</a><br><br>
+                <A href="http://lordkingsquirrel.com/ebgmp/mac_county.html">McPherson County</A><br><br>
+                <A href="http://lordkingsquirrel.com/ebgmp/reno_county.html">Reno County</a>
+                </p>
+            </div>
+           </div>
+           </div>
+
+
+          <!-- GMdir logo  -->
+           <div style="BOTTOM: 5px; left: 10px; POSITION: absolute">
+               <a href="http://www.gmdir.com" title="Google Maps Directory"><img src="http://www.gmdir.com/logos/smalllogo.gif" border="0" alt="Google Maps Directory"></a>
+           </div>
+ 
+   </body>
+</html>
