@@ -1,0 +1,168 @@
+/*  Concordance TrialDirector DDE Communication program.
+ *
+ *    To use:  Add the statement "ViewerCPL=PATH\docdir.cpl" to the
+ *    concordw.ini file, where PATH is the path to this program. 
+ *             Also make sure that the spawn function call is pointing
+ *             to the DocumentDirector folder.
+ *
+ *		Revised 01/23/98  by Walt Eis RSI.
+ *				modified to use the Klamann
+ *
+ *
+ *      REVISED BY PAUL TO ALLOW ALL FILE TYPES 4/22/1997
+ *      Copyright (c) 1994 Dataflight Software, Inc.
+ *      2337 Roscomare Road, Suite 11
+ *      Los Angeles, CA 90077
+ *
+ *      ALL RIGHTS RESERVED.
+ *
+ *      Unauthorized distribution, adaptation or use may be
+ *      subject to civil and criminal penalties.
+ *
+ *      You may incorporate this program into your own programs
+ *      ONLY if you incorporate the following copyright notice:
+ *
+ *      Derek D. Miller - inData Corporation - Updated for use with DocDir
+ /
+
+/************************************************************************
+*  name:        DocDir                                                  *
+*  synopsis:    Sends a DDE message to the DocDir viewer to display     *
+*               an image. Executes the image viewer if it isn't running.*
+*  returns:     Returns NULL if not successful, non-zero if successful. *
+************************************************************************/
+main()
+{
+int        hConv;               /* Handle to Conversation        */
+int        NULL;
+text       hszService;          /* Service Name Handle           */
+text       hszTopic;            /* Topic Name Handle             */
+text       hszDocName;
+int        db, i, Rec;
+
+   
+   /* Message("Start", 1); */
+   /* Make sure the database is open. */
+   if (db.documents >= 0) 
+     {
+
+      /* Initialize the strings used to communicate with the DDE program. */
+      hszService     = "DOCDIR";
+      hszTopic       = "DDIMAGE";
+
+      /* Try to connect, do a WinExec() if it isn't running. */
+      /* It will run DOCDIR if it is in the path.            */
+      if ((hConv = ddeConnect(hszService,hszTopic)) == NULL) 
+       {
+
+         /* No connection, execute the display program, it may not be running.  */
+         /* Then try to connect to the server a second time.                    */
+
+         spawn("d:\progra~1\Docdir\Docdir.exe", "");      
+
+         /* spawn("d:\program files\Docdir\Docdir.exe", ""); */
+
+         sleep(3000);
+         hConv = ddeConnect(hszService, hszTopic);
+        /* Message("Hello", 1); */
+
+       }
+       /* Message("switch", 1); */
+       switch(db.type[isfield(db, "REC")]) {
+           case 'P':
+           case 'T':
+              /* hszDocName = "[SHOWIMAGE " + db->DOCPREFIX + "_]"; */
+               hszDocName = "[SHOWIMAGE(" + db->DOCPREFIX + "-0001" +  ")]"; 
+               beep(450,5); 
+               break;
+
+           case 'N':
+               /* Message(rep("0",5-len(trim(str(db->REC)))) + str(db->REC) +  "-0001" , 1); */
+
+               hszDocName = "[SHOWIMAGE( " + rep("0",5-len(trim(str(db->REC)))) + str(db->REC) +  "-0001" + ")]"; 
+               break;
+
+           default: beep(450,5);
+                    /* Message("default", 1) */
+                    break;
+
+       }
+       /* Message("ddeExec", 1); */
+       i = ddeExec(hConv, hszDocName );
+       /*  readdoc(db, recno() ); */
+
+/* Message(chr('"')+hszDocName + chr('"') + " returns "+str(i), 1); */
+
+
+/* Other DDE Commands for DocumentDirector */
+/* [EXIT] */
+/* [HASIMAGE(<ObjectID>)] */
+/* [HIDEIMAGE] */
+/* [IMAGEUPDATE (<ObjectID>, <Path\ImageListFile>)] */
+/* [IMGFILE (<Path\ImageFile>,<PageCount>)] */
+/* [MINIMIZE] */
+/* [MOVEIMAGE (x, y)] */
+/* [PRINTBATCH(<BatchFileName>)] */
+/* [RESTORE] */
+/* [SETCASE(<casename>)] */
+/* [SHOWIMAGE(<ObjectId>)] */
+/* [TOPMOST] */
+/* [HASIMAGE(<TRUE>)] */
+/* [GETDOCID (<ObjectId.,<PageNumber>)] */
+/* [MOVE(x,y,x,y)] */
+
+/* For more detailed information, please refer to the DDEDOC.TXT file in */
+/* the DocDir Subdirectory. */
+
+
+     }
+   return(hConv);
+
+} /* main() */
+/****************************************************************
+* Name:         RGB                                             *
+* Synopsis:     Convert red, green, blue values to a color.     *
+****************************************************************/
+RGB(int red, grn, blu)
+{
+   return(((blu & 255) * 65536) | ((grn & 255) * 256) | (red & 255));
+}
+/****************************************************************
+* Name:         Message                                         *
+* Synopsis:     Displays error message and waits for key.       *
+****************************************************************/
+Message(text message; int wait )
+{
+text screen;
+int key;
+
+   cursoroff();
+
+   /* If this isn't the windows version of Concordance,    */
+   /* the box() function will produce a drop shadowed box  */
+   /* ignoring the background color parameters.            */
+
+   /* Draw a large dropped box with a raised box  */
+   /* displayed in its center.                    */
+   if (wait) {
+      screen = save(4,12,9,70);
+      box( 5,13,9,69,"3U", RGB(128,0, 128), RGB(255,0,255));
+      box( 5,13,9,69,"3U", RGB(190,190,190), RGB(128,128,128));
+      puts(7,14,pad(message,'C',53), 0, RGB(255,0,255));
+      puts(7,14,pad(message,'C',53), 0, RGB(128,128,128));
+      key = edit("Ok" ,6, 61, 8, 67,"Button" ,1,"" ,0,0,MenuColor_);
+      restore(4,12,screen);
+   }
+   else {
+      box( 5,13,9,69,"3U", RGB(128,0, 128), RGB(255,0,255));
+      puts(6,14,pad(message,'C',53),0, RGB(255,0,255));
+   }
+
+   return(asc(upper(chr(key))));
+
+}  /* Message() */
+
+
+
+
+
