@@ -45,7 +45,7 @@ All text above, and the splash screen must be included in any redistribution
 #define LOGO16_GLCD_WIDTH  16
 
 // Adafruit logo 
-static const unsigned char PROGMEM logo16_glcd_bmp[] =
+/* static const unsigned char PROGMEM logo16_glcd_bmp[] =
 { B00000000, B11000000,
   B00000001, B11000000,
   B00000001, B11000000,
@@ -61,7 +61,7 @@ static const unsigned char PROGMEM logo16_glcd_bmp[] =
   B00111111, B11110000,
   B01111100, B11110000,
   B01110000, B01110000,
-  B00000000, B00110000 };
+  B00000000, B00110000 }; */
 
 #if (SSD1306_LCDHEIGHT != 32)
 #error("Height incorrect, please fix Adafruit_SSD1306.h!");
@@ -87,12 +87,12 @@ void setup()   {
   // Show image buffer on the display hardware.
   // Since the buffer is intialized with an Adafruit splashscreen
   // internally, this will display the splashscreen.
-  display.display();
-  delay(2000);
+  //display.display();
+  //delay(2000);
   
   // Clear the buffer.
   display.clearDisplay();
-  display.display();
+  //display.display();
   
   // write header text
   display.setTextSize(1);
@@ -113,21 +113,32 @@ void setup()   {
  */
 void loop() {
   
+  long duration;
   // Clear last distance
-  // You have to do this to reset the screen to background color.
+  // I do this to reset the screen to background color.
   display.setTextColor(BLACK,WHITE);
   display.setCursor(7,31);
   display.print(a);
-  display.print(" cm");
+  display.print(" in");
   
   // get rangefinder output
-  a=sr04.Distance();
+  //a=sr04.Distance();
+  duration = 0;
+  digitalWrite(TRIG_PIN, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIG_PIN, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG_PIN, LOW);
+  delayMicroseconds(2);
+  duration = pulseIn(ECHO_PIN, HIGH, PULSE_TIMEOUT);
+  a = (duration/2) / 73.914;  // result in inches
+  // distance = (duration/2) / 29.1;  // result in cm
 
   // write new distance
   display.setTextColor(WHITE, BLACK);
   display.setCursor(7,31);
   display.print(a);
-  display.print(" cm");
+  display.print(" in");
         
   // refresh the display
   display.display();
