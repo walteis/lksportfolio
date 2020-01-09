@@ -3,19 +3,17 @@
 
 
 /*
-Program to display output from Ultrasonic range finder on a .96" OLED display.
-
-As designed, uses .96" display and Make "Maker" board.
+Simple Ethernet Cable tester using a '595, Uno R3, and .96" display.
 
 Pinouts are:
-Display     Prototype board
+Display     Uno
 -------     ---------------
  VCC        3.3v
  GND        GND
  SCL        A5 (SCL)
  SDA        A4 (SDA)
 
-  595       Prototype board
+  595       Uno
 -------     ---------------
  VCC        5V
  GND        GND
