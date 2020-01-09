@@ -1,7 +1,3 @@
-#include <Adafruit_SSD1306.h>
-#include <splash.h>
-
-
 /*
 Simple Ethernet Cable tester using a '595, Uno R3, and .96" display.
 
