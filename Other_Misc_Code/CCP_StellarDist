@@ -1,0 +1,17 @@
+stellar distance
+mab=0;map=0
+
+
+//get magnitudes
+map=inp('Enter apparent magnitude')
+mab=inp('Enter absolute magnitude')
+
+//calc distance
+D=10*2.512^(.5*(map-mab))
+
+//display results
+gclrs()
+gtitl('Stellar Distance',0)
+grect(1,20,150,75)
+gprt(10,30,'Distance (parsecs)=',D)
+gprt(10,55,'Distance (lightyears)=',D*3.26163344)
